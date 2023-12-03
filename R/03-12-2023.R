@@ -105,7 +105,10 @@ p <- d1 |>
     x = NULL,
     y = NULL,
     col = NULL,
-    caption = "Reiknað út frá Árbókum Sveitarfélaga hjá www.samband.is"
+    caption = str_c(
+      "Reiknað út frá Árbókum Sveitarfélaga hjá www.samband.is\n",
+      "Gögn og kóði: https://github.com/bgautijonsson/sunnudagurtilsveitarfelaga"
+      )
   )
 
 
