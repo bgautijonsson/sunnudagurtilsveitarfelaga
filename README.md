@@ -11,3 +11,7 @@ Hér má finna kóða og gögn til að taka þátt í *Sunnudögum til Sveitarf�
 * Stöðugildi sveitarfélaga út frá Árbók Sveitarfélaga: `data/arbok_stodugildi.csv`
 * Mannfjöldi eftir sveitarfélagi: `mannfjoldi_svf.csv`
 
+# Kóði
+
+* `R/03-12-2023.R`: % fjölgun stöðugilda (hrein og miðað við mannfjölda)
+
