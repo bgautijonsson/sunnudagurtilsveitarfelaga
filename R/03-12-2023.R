@@ -25,24 +25,24 @@ d <- read_csv(
     "Samtals" = stodugildi_total,
     "Skólar" = stodugildi_skola,
     "Leikskólar" = stodugildi_leikskola,
-    "Annað (Ekki skólar eða leikskólar)" = stodugildi_annad
+    "Annað" = stodugildi_annad
   ) |> 
-  pivot_longer(c(-ar, -sveitarfelag)) |> 
+  pivot_longer(c(-ar, -sveitarfelag)) 
+
+mannfjoldi <- read_csv(here("data", "mannfjoldi_svf.csv")) |> 
   mutate(
-    name = fct_relevel(
-      name,
-      "Leikskólar",
-      "Skólar",
-      "Annað (Ekki skólar eða leikskólar)"
-    )
-  )
-
-mannfjoldi <- read_csv(here("data", "mannfjoldi_svf.csv"))
-
+    Samtals = mannfjoldi
+  ) |> 
+  rename(
+    Skólar = mannfjoldi_skol,
+    Leikskólar = mannfjoldi_leiksk,
+    "Annað" = mannfjoldi
+  ) |> 
+  pivot_longer(c(-sveitarfelag, -ar), values_to = "mannfjoldi")
 
 d1 <- d |> 
   mutate(
-    type = "Hrein fjölgun"
+    type = "hreint"
   ) |> 
   mutate(
     value = value / value[ar == min(ar)],
@@ -52,11 +52,11 @@ d1 <- d |>
 
 d2 <- d |> 
   mutate(
-    type = "Fjölgun á hvern íbúa"
+    type = "íbúar"
   ) |> 
   inner_join(
     mannfjoldi,
-    by = join_by(sveitarfelag, ar)
+    by = join_by(sveitarfelag, ar, name)
   ) |> 
   mutate(
     value = value / mannfjoldi,
@@ -70,7 +70,23 @@ p <- d1 |>
     d2
   ) |>
   mutate(
-    type = fct_relevel(type, "Hrein fjölgun")
+    type = fct_relevel(type, "hreint") |> 
+      fct_recode(
+        "Hrein fjölgun" = "hreint",
+        "Fjölgun á hvern íbúa\n(Í réttum aldurshóp)" = "íbúar"
+      ),
+    name = fct_relevel(
+      name,
+      "Leikskólar",
+      "Skólar",
+      "Annað"
+    ) |> 
+      fct_recode(
+        "Leikskólar\n(0-5 ára)" = "Leikskólar",
+        "Skólar\n(6-18 ára)" = "Skólar",
+        "Annað\n(Allir íbúar)" = "Annað",
+        "Samtals\n(Allir íbúar)" = "Samtals"
+      )
   ) |> 
   ggplot(aes(ar, value, col = sveitarfelag)) +
   geom_hline(
@@ -88,7 +104,7 @@ p <- d1 |>
   ) +
   scale_y_continuous(
     labels = function(x) hlutf(x - 1),
-    breaks = breaks_pretty(5)
+    breaks = c(0.75, 1, 1.25, 1.5, 1.75)
   ) +
   scale_colour_brewer(
     palette = "Set1",
@@ -96,14 +112,15 @@ p <- d1 |>
   ) +
   facet_grid(
     cols = vars(name),
-    rows = vars(type)
+    rows = vars(type),
+    scales = "free_y"
   ) +
   coord_cartesian(clip = "off") +
   theme(
     legend.position = "top"
   ) +
   labs(
-    title = "Stöðugildum hefur fjölgað hraðar en íbúum hjá flestum sveitarfélögum á Höfuðborgarsvæðinu",
+    title = "Hefur stöðugildum fjölgað hraðar en íbúum hjá sveitarfélögum Höfuðborgarsvæðisins?",
     subtitle = "(%) fjölgun stöðugilda (hrein / á hvern íbúa) miðað við 2018",
     x = NULL,
     y = NULL,
@@ -111,7 +128,7 @@ p <- d1 |>
     caption = str_c(
       "Reiknað út frá Árbókum Sveitarfélaga hjá www.samband.is\n",
       "Gögn og kóði: https://github.com/bgautijonsson/sunnudagurtilsveitarfelaga"
-      )
+    )
   )
 
 
