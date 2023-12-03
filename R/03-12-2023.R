@@ -79,8 +79,11 @@ p <- d1 |>
     alpha = 0.5,
     linewidth = 0.5
   ) +
-  geom_line(
+  stat_smooth(
+    geom = "line",
     linewidth = 1,
+    span = 1,
+    se = 0,
     arrow = arrow(length = unit(0.25, "cm"), type = "closed")
   ) +
   scale_y_continuous(
@@ -119,8 +122,3 @@ ggsave(
   ),
   width = 8, height = 0.5 * 8, scale = 1.6
 )
-
-
-
-
-p
