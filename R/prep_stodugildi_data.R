@@ -21,6 +21,8 @@ read_stodugildi_skola <- function(year) {
   ) |> 
     select(
       sveitarfelag = 3,
+      stodugildi_skola_kenn = 11,
+      stodugildi_skola_kenn_an_rettinda = 12,
       stodugildi_skola = 14
     ) |> 
     filter(
@@ -44,6 +46,8 @@ read_stodugildi_leikskola <- function(year) {
   ) |> 
     select(
       sveitarfelag = 3,
+      stodugildi_leiksk_kenn = 14,
+      stodugildi_leiksk_onnur_mennt = 15,
       stodugildi_leikskola = 17
     ) |> 
     filter(
