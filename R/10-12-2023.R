@@ -78,7 +78,9 @@ p <- d |>
     x = NULL,
     y = "% með kennaramenntun",
     title = "Almennt er lægri hlutfall starfsfólks með kennararéttindi en fyrir 5 árum",
-    subtitle = "Hlutfall starfsfólks með kennara- eða leikskólakennaramenntun í sveitarfélögum Höfuðborgarsvæðis (2018 - 2023)"
+    subtitle = str_c(
+      "Hlutfall starfsfólks með kennara- eða leikskólakennaramenntun í sveitarfélögum Höfuðborgarsvæðis (2018 - 2023)"
+    )
   ) +
   theme(
     panel.spacing.x = unit(0.05, "snpc"),
