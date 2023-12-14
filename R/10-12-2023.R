@@ -148,7 +148,7 @@ p2 <- d |>
     y = NULL,
     title = NULL,
     subtitle = str_c(
-      "Fjöldi barna á hvern kennaramenntaðan starfsmann"
+      "Fjöldi barna á hvert stöðugildi kennaramenntaðra"
     )
   ) +
   theme(
