@@ -96,7 +96,11 @@ p <- d |>
     x = NULL,
     y = NULL,
     title = "Launaútgjöld sveitarfélaga tengd þjónustu við fatlaða hafa aukist mikið síðastliðinn áratug",
-    subtitle = "Laun og launatengd gjöld sýnd á hvern íbúa sveitarfélaga Höfuðborgarsvæðis. Leiðrétt fyrir verðbólgu."
+    subtitle = "Laun og launatengd gjöld sýnd á hvern íbúa sveitarfélaga Höfuðborgarsvæðis (fast verðlag 2023)",
+    caption = str_c(
+      "Reiknað út frá gögnum Sambands íslenskra sveitarfélaga hjá www.samband.is\n",
+      "Gögn og kóði: https://github.com/bgautijonsson/sunnudagurtilsveitarfelaga"
+    )
   )
 
 

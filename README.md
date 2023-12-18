@@ -15,4 +15,5 @@ Hér má finna kóða og gögn til að taka þátt í *Sunnudögum til Sveitarf�
 
 * `R/03-12-2023.R`: % fjölgun stöðugilda (hrein og miðað við mannfjölda)
 * `R/10-12-2023.R`: Hlutfall kennaramenntaðra í skólum og leikskólum
+* `R/17-12-2023.R`: Laun og launatengd gjöld til þjónustu við fatlaða
 
