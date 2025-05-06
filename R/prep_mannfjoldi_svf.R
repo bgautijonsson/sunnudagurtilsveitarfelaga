@@ -12,7 +12,7 @@ mannfjoldi <- hg_data(
   ) |> 
   collect() |> 
   janitor::clean_names() |> 
-  rename(mannfjoldi = mannfjoldi_eftir_sveitarfelagi_kyni_og_aldri_1_januar_1998_2023) |> 
+  rename(mannfjoldi = mannfjoldi_eftir_sveitarfelagi_kyni_og_aldri_1_januar_1998_2025) |> 
   mutate(ar = parse_number(ar)) |> 
   select(-kyn, -aldur)
 
@@ -35,7 +35,7 @@ mannfjoldi_leiksk <- hg_data(
     ) |> 
   collect() |> 
   janitor::clean_names() |> 
-  rename(mannfjoldi = mannfjoldi_eftir_sveitarfelagi_kyni_og_aldri_1_januar_1998_2023) |> 
+  rename(mannfjoldi = mannfjoldi_eftir_sveitarfelagi_kyni_og_aldri_1_januar_1998_2025) |> 
   mutate(ar = parse_number(ar)) |> 
   select(-kyn, -aldur) |> 
   summarise(
@@ -53,7 +53,7 @@ mannfjoldi_skol <- hg_data(
   ) |> 
   collect() |> 
   janitor::clean_names() |> 
-  rename(mannfjoldi = mannfjoldi_eftir_sveitarfelagi_kyni_og_aldri_1_januar_1998_2023) |> 
+  rename(mannfjoldi = mannfjoldi_eftir_sveitarfelagi_kyni_og_aldri_1_januar_1998_2025) |> 
   mutate(ar = parse_number(ar)) |> 
   select(-kyn, -aldur) |> 
   summarise(

@@ -12,19 +12,21 @@ Reykjavíkurborg,2007,116642,9572,19817
 Reykjavíkurborg,2008,118827,9572,19606
 Reykjavíkurborg,2009,119547,9825,19359
 Reykjavíkurborg,2010,118326,10082,18900
-Reykjavíkurborg,2011,118898,10258,18778
-Reykjavíkurborg,2012,118814,10140,18528
-Reykjavíkurborg,2013,119764,10308,18507
-Reykjavíkurborg,2014,121230,10299,18704
-Reykjavíkurborg,2015,121822,10121,18772
-Reykjavíkurborg,2016,122460,9713,18905
-Reykjavíkurborg,2017,123246,9353,19109
-Reykjavíkurborg,2018,126041,9103,19226
-Reykjavíkurborg,2019,128793,8911,19409
-Reykjavíkurborg,2020,131136,8903,19562
-Reykjavíkurborg,2021,133262,9033,19876
-Reykjavíkurborg,2022,135688,9234,19991
-Reykjavíkurborg,2023,139875,9337,20500
+Reykjavíkurborg,2011,115394,10090,18632
+Reykjavíkurborg,2012,115555,10011,18410
+Reykjavíkurborg,2013,116622,10181,18385
+Reykjavíkurborg,2014,118192,10160,18586
+Reykjavíkurborg,2015,118789,10009,18661
+Reykjavíkurborg,2016,119266,9601,18790
+Reykjavíkurborg,2017,120513,9267,18982
+Reykjavíkurborg,2018,123141,9022,19111
+Reykjavíkurborg,2019,125360,8829,19307
+Reykjavíkurborg,2020,126549,8803,19424
+Reykjavíkurborg,2021,128610,8936,19743
+Reykjavíkurborg,2022,130638,9124,19870
+Reykjavíkurborg,2023,134298,9206,20344
+Reykjavíkurborg,2024,136894,9285,20536
+Reykjavíkurborg,2025,138772,9222,20683
 Kópavogsbær,1998,19867,1984,4021
 Kópavogsbær,1999,21508,2194,4255
 Kópavogsbær,2000,22693,2258,4463
@@ -38,19 +40,21 @@ Kópavogsbær,2007,27525,2522,5158
 Kópavogsbær,2008,28885,2644,5245
 Kópavogsbær,2009,29976,2813,5368
 Kópavogsbær,2010,30357,2988,5428
-Kópavogsbær,2011,30779,3033,5538
-Kópavogsbær,2012,31205,3035,5652
-Kópavogsbær,2013,31726,3078,5702
-Kópavogsbær,2014,32308,3087,5803
-Kópavogsbær,2015,33205,3043,5956
-Kópavogsbær,2016,34140,2943,6146
-Kópavogsbær,2017,35246,2890,6333
-Kópavogsbær,2018,35970,2812,6371
-Kópavogsbær,2019,36975,2759,6445
-Kópavogsbær,2020,37959,2750,6519
-Kópavogsbær,2021,38332,2830,6589
-Kópavogsbær,2022,38998,2891,6643
-Kópavogsbær,2023,39810,2889,6705
+Kópavogsbær,2011,30255,3008,5518
+Kópavogsbær,2012,30669,3009,5630
+Kópavogsbær,2013,31201,3052,5677
+Kópavogsbær,2014,31766,3060,5781
+Kópavogsbær,2015,32621,3020,5935
+Kópavogsbær,2016,33537,2924,6123
+Kópavogsbær,2017,34661,2871,6310
+Kópavogsbær,2018,35369,2795,6346
+Kópavogsbær,2019,36295,2743,6421
+Kópavogsbær,2020,37036,2742,6490
+Kópavogsbær,2021,37500,2822,6565
+Kópavogsbær,2022,38056,2868,6615
+Kópavogsbær,2023,38770,2867,6665
+Kópavogsbær,2024,39335,2872,6604
+Kópavogsbær,2025,40040,2913,6701
 Seltjarnarnesbær,1998,4602,400,976
 Seltjarnarnesbær,1999,4698,393,978
 Seltjarnarnesbær,2000,4665,349,997
@@ -64,19 +68,21 @@ Seltjarnarnesbær,2007,4471,290,943
 Seltjarnarnesbær,2008,4454,296,897
 Seltjarnarnesbær,2009,4403,275,852
 Seltjarnarnesbær,2010,4395,269,831
-Seltjarnarnesbær,2011,4320,265,798
-Seltjarnarnesbær,2012,4313,267,774
-Seltjarnarnesbær,2013,4322,273,748
-Seltjarnarnesbær,2014,4381,297,751
-Seltjarnarnesbær,2015,4411,279,765
-Seltjarnarnesbær,2016,4415,288,716
-Seltjarnarnesbær,2017,4450,293,738
-Seltjarnarnesbær,2018,4575,330,740
-Seltjarnarnesbær,2019,4664,348,774
-Seltjarnarnesbær,2020,4726,348,784
-Seltjarnarnesbær,2021,4715,348,798
-Seltjarnarnesbær,2022,4720,342,821
-Seltjarnarnesbær,2023,4674,336,806
+Seltjarnarnesbær,2011,4189,256,794
+Seltjarnarnesbær,2012,4197,255,770
+Seltjarnarnesbær,2013,4219,264,745
+Seltjarnarnesbær,2014,4294,293,745
+Seltjarnarnesbær,2015,4308,274,759
+Seltjarnarnesbær,2016,4319,284,711
+Seltjarnarnesbær,2017,4364,288,732
+Seltjarnarnesbær,2018,4486,327,735
+Seltjarnarnesbær,2019,4565,344,768
+Seltjarnarnesbær,2020,4593,342,774
+Seltjarnarnesbær,2021,4590,344,794
+Seltjarnarnesbær,2022,4573,337,809
+Seltjarnarnesbær,2023,4540,330,799
+Seltjarnarnesbær,2024,4572,326,819
+Seltjarnarnesbær,2025,4585,328,828
 Garðabær,1998,9216,804,2125
 Garðabær,1999,9316,811,2094
 Garðabær,2000,9378,776,2115
@@ -90,19 +96,21 @@ Garðabær,2007,11832,1031,2468
 Garðabær,2008,12360,1044,2521
 Garðabær,2009,12876,1092,2582
 Garðabær,2010,13166,1134,2603
-Garðabær,2011,13393,1179,2643
-Garðabær,2012,13702,1197,2687
-Garðabær,2013,13872,1190,2686
-Garðabær,2014,14180,1211,2718
-Garðabær,2015,14453,1199,2798
-Garðabær,2016,14717,1148,2878
-Garðabær,2017,15230,1093,3023
-Garðabær,2018,15709,1097,3093
-Garðabær,2019,16299,1178,3146
-Garðabær,2020,16924,1262,3196
-Garðabær,2021,17693,1366,3256
-Garðabær,2022,18445,1542,3295
-Garðabær,2023,18891,1612,3310
+Garðabær,2011,13147,1166,2626
+Garðabær,2012,13407,1176,2656
+Garðabær,2013,13589,1171,2656
+Garðabær,2014,13904,1196,2695
+Garðabær,2015,14213,1189,2784
+Garðabær,2016,14442,1135,2867
+Garðabær,2017,14965,1082,3009
+Garðabær,2018,15449,1087,3079
+Garðabær,2019,16015,1166,3125
+Garðabær,2020,16624,1254,3180
+Garðabær,2021,17353,1356,3233
+Garðabær,2022,18047,1526,3265
+Garðabær,2023,18509,1600,3287
+Garðabær,2024,19088,1675,3312
+Garðabær,2025,20116,1752,3470
 Hafnarfjarðarkaupstaður,1998,18196,1945,4157
 Hafnarfjarðarkaupstaður,1999,18656,1980,4203
 Hafnarfjarðarkaupstaður,2000,19158,1939,4315
@@ -116,19 +124,21 @@ Hafnarfjarðarkaupstaður,2007,23751,2251,5054
 Hafnarfjarðarkaupstaður,2008,25036,2369,5098
 Hafnarfjarðarkaupstaður,2009,25850,2522,5105
 Hafnarfjarðarkaupstaður,2010,25913,2546,5068
-Hafnarfjarðarkaupstaður,2011,26099,2569,5092
-Hafnarfjarðarkaupstaður,2012,26486,2640,5123
-Hafnarfjarðarkaupstaður,2013,26808,2598,5144
-Hafnarfjarðarkaupstaður,2014,27357,2594,5189
-Hafnarfjarðarkaupstaður,2015,27875,2558,5255
-Hafnarfjarðarkaupstaður,2016,28189,2413,5341
-Hafnarfjarðarkaupstaður,2017,28703,2331,5432
-Hafnarfjarðarkaupstaður,2018,29412,2320,5488
-Hafnarfjarðarkaupstaður,2019,29799,2263,5539
-Hafnarfjarðarkaupstaður,2020,29971,2215,5524
-Hafnarfjarðarkaupstaður,2021,29687,2189,5464
-Hafnarfjarðarkaupstaður,2022,29763,2201,5410
-Hafnarfjarðarkaupstaður,2023,30568,2268,5478
+Hafnarfjarðarkaupstaður,2011,25658,2557,5065
+Hafnarfjarðarkaupstaður,2012,26030,2623,5090
+Hafnarfjarðarkaupstaður,2013,26393,2579,5120
+Hafnarfjarðarkaupstaður,2014,26891,2573,5158
+Hafnarfjarðarkaupstaður,2015,27393,2532,5226
+Hafnarfjarðarkaupstaður,2016,27696,2385,5310
+Hafnarfjarðarkaupstaður,2017,28270,2316,5405
+Hafnarfjarðarkaupstaður,2018,28965,2312,5460
+Hafnarfjarðarkaupstaður,2019,29227,2256,5517
+Hafnarfjarðarkaupstaður,2020,29266,2193,5495
+Hafnarfjarðarkaupstaður,2021,29018,2171,5436
+Hafnarfjarðarkaupstaður,2022,29047,2181,5374
+Hafnarfjarðarkaupstaður,2023,29806,2258,5450
+Hafnarfjarðarkaupstaður,2024,30616,2303,5487
+Hafnarfjarðarkaupstaður,2025,31525,2322,5580
 Mosfellsbær,1998,5246,544,1284
 Mosfellsbær,1999,5540,573,1365
 Mosfellsbær,2000,5869,638,1411
@@ -142,19 +152,21 @@ Mosfellsbær,2007,7516,729,1692
 Mosfellsbær,2008,8192,770,1745
 Mosfellsbær,2009,8403,816,1818
 Mosfellsbær,2010,8553,849,1856
-Mosfellsbær,2011,8642,856,1861
-Mosfellsbær,2012,8854,895,1882
-Mosfellsbær,2013,8978,880,1894
-Mosfellsbær,2014,9075,827,1924
-Mosfellsbær,2015,9300,822,1974
-Mosfellsbær,2016,9481,788,2012
-Mosfellsbær,2017,9783,763,2075
-Mosfellsbær,2018,10556,805,2215
-Mosfellsbær,2019,11463,871,2310
-Mosfellsbær,2020,12073,977,2340
-Mosfellsbær,2021,12589,1024,2449
-Mosfellsbær,2022,13024,1066,2490
-Mosfellsbær,2023,13430,1106,2481
+Mosfellsbær,2011,8474,851,1856
+Mosfellsbær,2012,8706,891,1877
+Mosfellsbær,2013,8855,876,1892
+Mosfellsbær,2014,8955,826,1922
+Mosfellsbær,2015,9159,820,1970
+Mosfellsbær,2016,9338,785,2005
+Mosfellsbær,2017,9637,759,2069
+Mosfellsbær,2018,10400,799,2206
+Mosfellsbær,2019,11286,862,2305
+Mosfellsbær,2020,11868,968,2333
+Mosfellsbær,2021,12341,1017,2445
+Mosfellsbær,2022,12768,1060,2483
+Mosfellsbær,2023,13091,1101,2473
+Mosfellsbær,2024,13403,1098,2461
+Mosfellsbær,2025,13715,1117,2497
 Kjósarhreppur,1998,138,7,34
 Kjósarhreppur,1999,142,8,32
 Kjósarhreppur,2000,142,8,30
@@ -168,19 +180,21 @@ Kjósarhreppur,2007,182,9,36
 Kjósarhreppur,2008,191,8,39
 Kjósarhreppur,2009,196,9,37
 Kjósarhreppur,2010,197,9,36
-Kjósarhreppur,2011,210,11,35
-Kjósarhreppur,2012,220,6,37
-Kjósarhreppur,2013,205,5,28
-Kjósarhreppur,2014,221,9,33
-Kjósarhreppur,2015,216,9,33
-Kjósarhreppur,2016,217,9,26
-Kjósarhreppur,2017,220,9,27
-Kjósarhreppur,2018,221,7,28
-Kjósarhreppur,2019,238,8,32
-Kjósarhreppur,2020,245,10,35
-Kjósarhreppur,2021,250,11,30
-Kjósarhreppur,2022,244,12,27
-Kjósarhreppur,2023,285,12,31
+Kjósarhreppur,2011,205,11,35
+Kjósarhreppur,2012,212,6,37
+Kjósarhreppur,2013,198,5,28
+Kjósarhreppur,2014,213,8,33
+Kjósarhreppur,2015,207,9,33
+Kjósarhreppur,2016,211,9,26
+Kjósarhreppur,2017,213,9,27
+Kjósarhreppur,2018,218,7,28
+Kjósarhreppur,2019,233,8,32
+Kjósarhreppur,2020,233,8,34
+Kjósarhreppur,2021,235,9,29
+Kjósarhreppur,2022,235,11,26
+Kjósarhreppur,2023,275,11,30
+Kjósarhreppur,2024,269,12,30
+Kjósarhreppur,2025,301,15,32
 Reykjanesbær,1998,10405,1092,2282
 Reykjanesbær,1999,10443,1078,2252
 Reykjanesbær,2000,10624,1044,2291
@@ -194,19 +208,21 @@ Reykjanesbær,2007,11952,1015,2430
 Reykjanesbær,2008,13440,1205,2604
 Reykjanesbær,2009,14172,1318,2724
 Reykjanesbær,2010,14091,1320,2737
-Reykjanesbær,2011,13971,1311,2748
-Reykjanesbær,2012,14137,1369,2737
-Reykjanesbær,2013,14231,1370,2688
-Reykjanesbær,2014,14527,1362,2711
-Reykjanesbær,2015,14924,1404,2759
-Reykjanesbær,2016,15233,1332,2789
-Reykjanesbær,2017,16350,1373,2876
-Reykjanesbær,2018,17805,1390,3040
-Reykjanesbær,2019,18920,1438,3104
-Reykjanesbær,2020,19421,1451,3142
-Reykjanesbær,2021,19676,1475,3211
-Reykjanesbær,2022,20416,1556,3355
-Reykjanesbær,2023,22059,1615,3482
+Reykjanesbær,2011,13689,1299,2735
+Reykjanesbær,2012,13894,1366,2722
+Reykjanesbær,2013,14014,1366,2681
+Reykjanesbær,2014,14317,1357,2705
+Reykjanesbær,2015,14658,1395,2749
+Reykjanesbær,2016,14942,1321,2782
+Reykjanesbær,2017,16057,1365,2869
+Reykjanesbær,2018,17385,1384,3029
+Reykjanesbær,2019,18409,1429,3097
+Reykjanesbær,2020,18622,1429,3124
+Reykjanesbær,2021,18751,1459,3192
+Reykjanesbær,2022,19437,1543,3334
+Reykjanesbær,2023,20990,1602,3463
+Reykjanesbær,2024,21957,1621,3497
+Reykjanesbær,2025,22499,1609,3604
 Grindavíkurbær,1998,2134,231,475
 Grindavíkurbær,1999,2179,236,500
 Grindavíkurbær,2000,2242,251,501
@@ -220,19 +236,21 @@ Grindavíkurbær,2007,2701,271,618
 Grindavíkurbær,2008,2779,283,615
 Grindavíkurbær,2009,2850,295,637
 Grindavíkurbær,2010,2837,287,609
-Grindavíkurbær,2011,2821,269,616
-Grindavíkurbær,2012,2830,272,599
-Grindavíkurbær,2013,2860,294,586
-Grindavíkurbær,2014,2888,289,565
-Grindavíkurbær,2015,2995,283,585
-Grindavíkurbær,2016,3126,317,604
-Grindavíkurbær,2017,3218,316,613
-Grindavíkurbær,2018,3323,304,636
-Grindavíkurbær,2019,3427,288,658
-Grindavíkurbær,2020,3512,291,672
-Grindavíkurbær,2021,3539,284,684
-Grindavíkurbær,2022,3585,273,705
-Grindavíkurbær,2023,3669,270,703
+Grindavíkurbær,2011,2773,269,615
+Grindavíkurbær,2012,2778,270,597
+Grindavíkurbær,2013,2829,293,586
+Grindavíkurbær,2014,2855,288,565
+Grindavíkurbær,2015,2955,281,585
+Grindavíkurbær,2016,3082,314,604
+Grindavíkurbær,2017,3179,314,613
+Grindavíkurbær,2018,3283,303,635
+Grindavíkurbær,2019,3375,288,656
+Grindavíkurbær,2020,3419,291,670
+Grindavíkurbær,2021,3440,284,682
+Grindavíkurbær,2022,3479,272,702
+Grindavíkurbær,2023,3562,269,702
+Grindavíkurbær,2024,3579,236,698
+Grindavíkurbær,2025,1246,25,92
 Sveitarfélagið Vogar,1998,716,82,175
 Sveitarfélagið Vogar,1999,715,88,169
 Sveitarfélagið Vogar,2000,732,88,161
@@ -246,19 +264,21 @@ Sveitarfélagið Vogar,2007,1112,100,277
 Sveitarfélagið Vogar,2008,1231,134,280
 Sveitarfélagið Vogar,2009,1218,131,277
 Sveitarfélagið Vogar,2010,1206,133,266
-Sveitarfélagið Vogar,2011,1161,130,243
-Sveitarfélagið Vogar,2012,1126,130,243
-Sveitarfélagið Vogar,2013,1105,116,243
-Sveitarfélagið Vogar,2014,1127,92,256
-Sveitarfélagið Vogar,2015,1102,78,245
-Sveitarfélagið Vogar,2016,1148,74,255
-Sveitarfélagið Vogar,2017,1206,83,256
-Sveitarfélagið Vogar,2018,1268,92,248
-Sveitarfélagið Vogar,2019,1286,81,229
-Sveitarfélagið Vogar,2020,1308,81,223
-Sveitarfélagið Vogar,2021,1331,82,218
-Sveitarfélagið Vogar,2022,1354,77,221
-Sveitarfélagið Vogar,2023,1396,82,219
+Sveitarfélagið Vogar,2011,1138,130,243
+Sveitarfélagið Vogar,2012,1107,130,243
+Sveitarfélagið Vogar,2013,1095,116,243
+Sveitarfélagið Vogar,2014,1108,92,254
+Sveitarfélagið Vogar,2015,1089,78,245
+Sveitarfélagið Vogar,2016,1133,74,255
+Sveitarfélagið Vogar,2017,1185,83,256
+Sveitarfélagið Vogar,2018,1250,92,248
+Sveitarfélagið Vogar,2019,1250,78,226
+Sveitarfélagið Vogar,2020,1268,80,221
+Sveitarfélagið Vogar,2021,1293,82,217
+Sveitarfélagið Vogar,2022,1310,77,221
+Sveitarfélagið Vogar,2023,1337,81,218
+Sveitarfélagið Vogar,2024,1500,94,249
+Sveitarfélagið Vogar,2025,1741,109,304
 Suðurnesjabær,1998,2460,256,676
 Suðurnesjabær,1999,2522,245,671
 Suðurnesjabær,2000,2508,243,659
@@ -272,19 +292,21 @@ Suðurnesjabær,2007,3147,296,677
 Suðurnesjabær,2008,3209,296,656
 Suðurnesjabær,2009,3304,328,675
 Suðurnesjabær,2010,3225,316,660
-Suðurnesjabær,2011,3135,313,630
-Suðurnesjabær,2012,3149,310,619
-Suðurnesjabær,2013,3010,289,559
-Suðurnesjabær,2014,3018,275,553
-Suðurnesjabær,2015,3005,273,555
-Suðurnesjabær,2016,3002,265,541
-Suðurnesjabær,2017,3219,274,580
-Suðurnesjabær,2018,3374,276,606
-Suðurnesjabær,2019,3480,287,596
-Suðurnesjabær,2020,3588,287,647
-Suðurnesjabær,2021,3649,294,646
-Suðurnesjabær,2022,3753,284,672
-Suðurnesjabær,2023,3925,285,697
+Suðurnesjabær,2011,3076,311,624
+Suðurnesjabær,2012,3092,305,617
+Suðurnesjabær,2013,2960,287,557
+Suðurnesjabær,2014,2971,274,549
+Suðurnesjabær,2015,2960,270,553
+Suðurnesjabær,2016,2959,265,540
+Suðurnesjabær,2017,3180,273,580
+Suðurnesjabær,2018,3335,275,606
+Suðurnesjabær,2019,3429,283,596
+Suðurnesjabær,2020,3526,286,644
+Suðurnesjabær,2021,3558,293,643
+Suðurnesjabær,2022,3648,284,669
+Suðurnesjabær,2023,3820,284,695
+Suðurnesjabær,2024,3897,300,694
+Suðurnesjabær,2025,4091,301,738
 Akraneskaupstaður,1998,5125,463,1168
 Akraneskaupstaður,1999,5186,474,1154
 Akraneskaupstaður,2000,5340,500,1148
@@ -298,19 +320,21 @@ Akraneskaupstaður,2007,5976,520,1237
 Akraneskaupstaður,2008,6401,562,1313
 Akraneskaupstaður,2009,6609,600,1343
 Akraneskaupstaður,2010,6549,598,1333
-Akraneskaupstaður,2011,6623,624,1322
-Akraneskaupstaður,2012,6592,619,1312
-Akraneskaupstaður,2013,6625,618,1314
-Akraneskaupstaður,2014,6699,611,1334
-Akraneskaupstaður,2015,6767,614,1339
-Akraneskaupstaður,2016,6908,623,1356
-Akraneskaupstaður,2017,7051,611,1368
-Akraneskaupstaður,2018,7259,599,1375
-Akraneskaupstaður,2019,7411,593,1386
-Akraneskaupstaður,2020,7534,589,1409
-Akraneskaupstaður,2021,7697,591,1440
-Akraneskaupstaður,2022,7841,584,1452
-Akraneskaupstaður,2023,7997,607,1489
+Akraneskaupstaður,2011,6546,617,1319
+Akraneskaupstaður,2012,6518,617,1307
+Akraneskaupstaður,2013,6552,614,1307
+Akraneskaupstaður,2014,6624,606,1328
+Akraneskaupstaður,2015,6703,609,1335
+Akraneskaupstaður,2016,6841,619,1350
+Akraneskaupstaður,2017,6980,609,1363
+Akraneskaupstaður,2018,7184,599,1372
+Akraneskaupstaður,2019,7308,590,1384
+Akraneskaupstaður,2020,7408,588,1407
+Akraneskaupstaður,2021,7551,589,1438
+Akraneskaupstaður,2022,7693,582,1451
+Akraneskaupstaður,2023,7854,606,1486
+Akraneskaupstaður,2024,8071,626,1486
+Akraneskaupstaður,2025,8285,680,1504
 Skorradalshreppur,1998,52,4,5
 Skorradalshreppur,1999,53,4,9
 Skorradalshreppur,2000,45,4,9
@@ -324,19 +348,21 @@ Skorradalshreppur,2007,56,5,9
 Skorradalshreppur,2008,61,5,9
 Skorradalshreppur,2009,57,5,12
 Skorradalshreppur,2010,61,6,13
-Skorradalshreppur,2011,57,4,12
-Skorradalshreppur,2012,60,3,10
-Skorradalshreppur,2013,57,4,8
-Skorradalshreppur,2014,58,3,10
-Skorradalshreppur,2015,62,2,11
-Skorradalshreppur,2016,53,1,10
-Skorradalshreppur,2017,58,2,10
-Skorradalshreppur,2018,56,1,8
-Skorradalshreppur,2019,58,2,8
-Skorradalshreppur,2020,65,2,11
-Skorradalshreppur,2021,66,4,7
-Skorradalshreppur,2022,60,2,9
+Skorradalshreppur,2011,52,4,11
+Skorradalshreppur,2012,55,3,9
+Skorradalshreppur,2013,52,4,7
+Skorradalshreppur,2014,51,3,9
+Skorradalshreppur,2015,56,2,10
+Skorradalshreppur,2016,52,1,10
+Skorradalshreppur,2017,57,2,10
+Skorradalshreppur,2018,54,1,8
+Skorradalshreppur,2019,56,2,8
+Skorradalshreppur,2020,63,2,11
+Skorradalshreppur,2021,60,3,7
+Skorradalshreppur,2022,57,2,9
 Skorradalshreppur,2023,75,5,13
+Skorradalshreppur,2024,52,0,7
+Skorradalshreppur,2025,65,0,7
 Hvalfjarðarsveit,1998,545,44,149
 Hvalfjarðarsveit,1999,538,41,142
 Hvalfjarðarsveit,2000,547,43,149
@@ -350,19 +376,21 @@ Hvalfjarðarsveit,2007,608,44,132
 Hvalfjarðarsveit,2008,686,54,141
 Hvalfjarðarsveit,2009,641,49,141
 Hvalfjarðarsveit,2010,624,52,128
-Hvalfjarðarsveit,2011,617,46,123
-Hvalfjarðarsveit,2012,627,46,116
-Hvalfjarðarsveit,2013,610,51,104
-Hvalfjarðarsveit,2014,617,51,101
-Hvalfjarðarsveit,2015,635,46,106
-Hvalfjarðarsveit,2016,622,50,111
-Hvalfjarðarsveit,2017,636,53,110
-Hvalfjarðarsveit,2018,648,47,116
-Hvalfjarðarsveit,2019,638,36,119
-Hvalfjarðarsveit,2020,625,34,102
-Hvalfjarðarsveit,2021,647,43,110
-Hvalfjarðarsveit,2022,687,42,117
-Hvalfjarðarsveit,2023,765,48,118
+Hvalfjarðarsveit,2011,606,45,123
+Hvalfjarðarsveit,2012,615,46,116
+Hvalfjarðarsveit,2013,603,51,104
+Hvalfjarðarsveit,2014,610,51,101
+Hvalfjarðarsveit,2015,631,46,106
+Hvalfjarðarsveit,2016,619,50,111
+Hvalfjarðarsveit,2017,630,53,110
+Hvalfjarðarsveit,2018,642,47,116
+Hvalfjarðarsveit,2019,630,36,119
+Hvalfjarðarsveit,2020,622,34,102
+Hvalfjarðarsveit,2021,637,43,110
+Hvalfjarðarsveit,2022,674,42,116
+Hvalfjarðarsveit,2023,749,48,117
+Hvalfjarðarsveit,2024,727,42,120
+Hvalfjarðarsveit,2025,760,40,121
 Borgarbyggð,1998,3259,296,743
 Borgarbyggð,1999,3297,292,745
 Borgarbyggð,2000,3296,294,742
@@ -376,19 +404,21 @@ Borgarbyggð,2007,3710,310,808
 Borgarbyggð,2008,3781,315,784
 Borgarbyggð,2009,3744,311,755
 Borgarbyggð,2010,3542,275,721
-Borgarbyggð,2011,3476,275,694
-Borgarbyggð,2012,3470,289,662
-Borgarbyggð,2013,3469,272,643
-Borgarbyggð,2014,3535,279,645
-Borgarbyggð,2015,3539,270,650
-Borgarbyggð,2016,3637,284,652
-Borgarbyggð,2017,3677,274,629
-Borgarbyggð,2018,3745,268,622
-Borgarbyggð,2019,3807,268,609
-Borgarbyggð,2020,3852,270,613
-Borgarbyggð,2021,3758,266,592
-Borgarbyggð,2022,3868,262,618
-Borgarbyggð,2023,4090,277,629
+Borgarbyggð,2011,3426,273,693
+Borgarbyggð,2012,3423,287,662
+Borgarbyggð,2013,3420,269,643
+Borgarbyggð,2014,3496,279,645
+Borgarbyggð,2015,3496,270,649
+Borgarbyggð,2016,3580,281,648
+Borgarbyggð,2017,3626,271,629
+Borgarbyggð,2018,3695,267,622
+Borgarbyggð,2019,3724,268,608
+Borgarbyggð,2020,3730,268,611
+Borgarbyggð,2021,3621,264,590
+Borgarbyggð,2022,3749,260,616
+Borgarbyggð,2023,3934,276,627
+Borgarbyggð,2024,4100,270,669
+Borgarbyggð,2025,4102,258,672
 Grundarfjarðarbær,1998,922,109,239
 Grundarfjarðarbær,1999,936,104,248
 Grundarfjarðarbær,2000,952,98,260
@@ -402,19 +432,21 @@ Grundarfjarðarbær,2007,949,65,227
 Grundarfjarðarbær,2008,918,64,206
 Grundarfjarðarbær,2009,925,62,198
 Grundarfjarðarbær,2010,904,62,186
-Grundarfjarðarbær,2011,903,69,169
-Grundarfjarðarbær,2012,899,68,155
-Grundarfjarðarbær,2013,905,70,143
-Grundarfjarðarbær,2014,872,71,132
-Grundarfjarðarbær,2015,900,75,128
-Grundarfjarðarbær,2016,899,74,123
-Grundarfjarðarbær,2017,869,74,109
-Grundarfjarðarbær,2018,877,70,113
-Grundarfjarðarbær,2019,866,66,122
-Grundarfjarðarbær,2020,876,76,121
-Grundarfjarðarbær,2021,862,60,130
-Grundarfjarðarbær,2022,840,67,126
-Grundarfjarðarbær,2023,861,68,135
+Grundarfjarðarbær,2011,880,68,168
+Grundarfjarðarbær,2012,890,68,155
+Grundarfjarðarbær,2013,887,70,143
+Grundarfjarðarbær,2014,852,71,132
+Grundarfjarðarbær,2015,876,75,128
+Grundarfjarðarbær,2016,879,74,123
+Grundarfjarðarbær,2017,850,74,109
+Grundarfjarðarbær,2018,853,70,113
+Grundarfjarðarbær,2019,842,65,121
+Grundarfjarðarbær,2020,841,75,120
+Grundarfjarðarbær,2021,833,60,130
+Grundarfjarðarbær,2022,807,65,124
+Grundarfjarðarbær,2023,827,68,131
+Grundarfjarðarbær,2024,821,67,132
+Grundarfjarðarbær,2025,826,63,134
 Eyja- og Miklaholtshreppur,1998,122,4,28
 Eyja- og Miklaholtshreppur,1999,120,4,31
 Eyja- og Miklaholtshreppur,2000,115,5,31
@@ -428,19 +460,21 @@ Eyja- og Miklaholtshreppur,2007,140,10,27
 Eyja- og Miklaholtshreppur,2008,128,9,24
 Eyja- og Miklaholtshreppur,2009,129,9,24
 Eyja- og Miklaholtshreppur,2010,139,12,24
-Eyja- og Miklaholtshreppur,2011,135,9,19
-Eyja- og Miklaholtshreppur,2012,132,11,16
-Eyja- og Miklaholtshreppur,2013,158,14,18
-Eyja- og Miklaholtshreppur,2014,148,13,19
-Eyja- og Miklaholtshreppur,2015,144,8,21
-Eyja- og Miklaholtshreppur,2016,138,7,17
+Eyja- og Miklaholtshreppur,2011,132,9,19
+Eyja- og Miklaholtshreppur,2012,130,11,16
+Eyja- og Miklaholtshreppur,2013,153,14,18
+Eyja- og Miklaholtshreppur,2014,146,13,19
+Eyja- og Miklaholtshreppur,2015,140,8,20
+Eyja- og Miklaholtshreppur,2016,133,7,17
 Eyja- og Miklaholtshreppur,2017,120,7,15
-Eyja- og Miklaholtshreppur,2018,129,9,19
+Eyja- og Miklaholtshreppur,2018,124,8,19
 Eyja- og Miklaholtshreppur,2019,117,5,15
-Eyja- og Miklaholtshreppur,2020,124,8,16
-Eyja- og Miklaholtshreppur,2021,119,6,14
-Eyja- og Miklaholtshreppur,2022,102,2,10
-Eyja- og Miklaholtshreppur,2023,114,6,14
+Eyja- og Miklaholtshreppur,2020,123,8,16
+Eyja- og Miklaholtshreppur,2021,113,6,14
+Eyja- og Miklaholtshreppur,2022,100,2,10
+Eyja- og Miklaholtshreppur,2023,112,6,14
+Eyja- og Miklaholtshreppur,2024,123,6,18
+Eyja- og Miklaholtshreppur,2025,124,7,20
 Snæfellsbær,1998,1743,165,427
 Snæfellsbær,1999,1728,162,418
 Snæfellsbær,2000,1719,149,401
@@ -454,19 +488,21 @@ Snæfellsbær,2007,1709,166,356
 Snæfellsbær,2008,1716,149,339
 Snæfellsbær,2009,1717,154,340
 Snæfellsbær,2010,1702,152,332
-Snæfellsbær,2011,1723,161,322
-Snæfellsbær,2012,1737,156,337
-Snæfellsbær,2013,1722,165,323
-Snæfellsbær,2014,1691,149,325
-Snæfellsbær,2015,1679,140,331
-Snæfellsbær,2016,1663,131,323
-Snæfellsbær,2017,1625,117,306
-Snæfellsbær,2018,1641,101,304
-Snæfellsbær,2019,1674,102,321
-Snæfellsbær,2020,1674,104,305
-Snæfellsbær,2021,1679,103,294
-Snæfellsbær,2022,1666,111,290
-Snæfellsbær,2023,1678,107,271
+Snæfellsbær,2011,1702,160,322
+Snæfellsbær,2012,1713,156,336
+Snæfellsbær,2013,1706,164,323
+Snæfellsbær,2014,1676,149,325
+Snæfellsbær,2015,1654,139,331
+Snæfellsbær,2016,1626,130,322
+Snæfellsbær,2017,1611,116,306
+Snæfellsbær,2018,1631,101,304
+Snæfellsbær,2019,1646,102,321
+Snæfellsbær,2020,1628,104,305
+Snæfellsbær,2021,1627,103,292
+Snæfellsbær,2022,1607,110,285
+Snæfellsbær,2023,1632,107,271
+Snæfellsbær,2024,1617,100,261
+Snæfellsbær,2025,1669,108,258
 Sveitarfélagið Stykkishólmur,1998,1323,120,312
 Sveitarfélagið Stykkishólmur,1999,1295,104,299
 Sveitarfélagið Stykkishólmur,2000,1273,88,292
@@ -480,19 +516,21 @@ Sveitarfélagið Stykkishólmur,2007,1200,96,240
 Sveitarfélagið Stykkishólmur,2008,1169,83,227
 Sveitarfélagið Stykkishólmur,2009,1171,82,214
 Sveitarfélagið Stykkishólmur,2010,1155,66,220
-Sveitarfélagið Stykkishólmur,2011,1161,71,220
-Sveitarfélagið Stykkishólmur,2012,1165,80,208
-Sveitarfélagið Stykkishólmur,2013,1170,89,191
-Sveitarfélagið Stykkishólmur,2014,1148,82,185
-Sveitarfélagið Stykkishólmur,2015,1160,86,196
-Sveitarfélagið Stykkishólmur,2016,1168,88,183
-Sveitarfélagið Stykkishólmur,2017,1220,90,190
-Sveitarfélagið Stykkishólmur,2018,1235,93,202
-Sveitarfélagið Stykkishólmur,2019,1263,101,205
-Sveitarfélagið Stykkishólmur,2020,1273,107,201
-Sveitarfélagið Stykkishólmur,2021,1262,105,200
-Sveitarfélagið Stykkishólmur,2022,1290,107,202
-Sveitarfélagið Stykkishólmur,2023,1308,105,204
+Sveitarfélagið Stykkishólmur,2011,1141,71,219
+Sveitarfélagið Stykkishólmur,2012,1150,80,208
+Sveitarfélagið Stykkishólmur,2013,1155,89,191
+Sveitarfélagið Stykkishólmur,2014,1134,81,185
+Sveitarfélagið Stykkishólmur,2015,1151,86,196
+Sveitarfélagið Stykkishólmur,2016,1158,88,183
+Sveitarfélagið Stykkishólmur,2017,1200,88,190
+Sveitarfélagið Stykkishólmur,2018,1215,92,202
+Sveitarfélagið Stykkishólmur,2019,1243,101,205
+Sveitarfélagið Stykkishólmur,2020,1242,107,201
+Sveitarfélagið Stykkishólmur,2021,1228,104,200
+Sveitarfélagið Stykkishólmur,2022,1252,106,202
+Sveitarfélagið Stykkishólmur,2023,1264,104,204
+Sveitarfélagið Stykkishólmur,2024,1266,98,208
+Sveitarfélagið Stykkishólmur,2025,1285,92,219
 Dalabyggð,1998,833,62,163
 Dalabyggð,1999,797,59,148
 Dalabyggð,2000,775,52,142
@@ -506,19 +544,21 @@ Dalabyggð,2007,681,42,119
 Dalabyggð,2008,709,49,133
 Dalabyggð,2009,714,55,125
 Dalabyggð,2010,694,52,127
-Dalabyggð,2011,684,55,117
-Dalabyggð,2012,686,53,119
-Dalabyggð,2013,665,54,102
-Dalabyggð,2014,673,50,112
-Dalabyggð,2015,680,51,121
-Dalabyggð,2016,678,46,123
-Dalabyggð,2017,673,43,124
-Dalabyggð,2018,667,39,120
-Dalabyggð,2019,673,34,120
-Dalabyggð,2020,639,28,110
-Dalabyggð,2021,620,25,106
-Dalabyggð,2022,665,31,114
-Dalabyggð,2023,653,29,113
+Dalabyggð,2011,679,55,117
+Dalabyggð,2012,682,53,119
+Dalabyggð,2013,661,54,102
+Dalabyggð,2014,669,50,112
+Dalabyggð,2015,677,51,121
+Dalabyggð,2016,676,46,123
+Dalabyggð,2017,666,43,124
+Dalabyggð,2018,657,39,120
+Dalabyggð,2019,663,34,120
+Dalabyggð,2020,624,28,110
+Dalabyggð,2021,607,25,106
+Dalabyggð,2022,652,31,114
+Dalabyggð,2023,637,29,113
+Dalabyggð,2024,642,31,108
+Dalabyggð,2025,645,37,102
 Bolungarvíkurkaupstaður,1998,1093,94,257
 Bolungarvíkurkaupstaður,1999,1018,90,223
 Bolungarvíkurkaupstaður,2000,1001,87,228
@@ -532,19 +572,21 @@ Bolungarvíkurkaupstaður,2007,902,67,167
 Bolungarvíkurkaupstaður,2008,908,72,176
 Bolungarvíkurkaupstaður,2009,966,78,176
 Bolungarvíkurkaupstaður,2010,970,78,169
-Bolungarvíkurkaupstaður,2011,888,69,163
-Bolungarvíkurkaupstaður,2012,889,71,150
-Bolungarvíkurkaupstaður,2013,918,79,156
-Bolungarvíkurkaupstaður,2014,950,78,172
-Bolungarvíkurkaupstaður,2015,923,70,169
-Bolungarvíkurkaupstaður,2016,904,72,162
-Bolungarvíkurkaupstaður,2017,908,75,167
-Bolungarvíkurkaupstaður,2018,945,69,172
-Bolungarvíkurkaupstaður,2019,953,65,173
-Bolungarvíkurkaupstaður,2020,955,65,169
-Bolungarvíkurkaupstaður,2021,958,70,162
-Bolungarvíkurkaupstaður,2022,956,71,157
-Bolungarvíkurkaupstaður,2023,997,72,160
+Bolungarvíkurkaupstaður,2011,877,69,163
+Bolungarvíkurkaupstaður,2012,874,71,150
+Bolungarvíkurkaupstaður,2013,906,79,156
+Bolungarvíkurkaupstaður,2014,934,78,172
+Bolungarvíkurkaupstaður,2015,903,70,167
+Bolungarvíkurkaupstaður,2016,889,71,160
+Bolungarvíkurkaupstaður,2017,891,74,167
+Bolungarvíkurkaupstaður,2018,929,68,172
+Bolungarvíkurkaupstaður,2019,939,64,173
+Bolungarvíkurkaupstaður,2020,928,63,168
+Bolungarvíkurkaupstaður,2021,938,70,162
+Bolungarvíkurkaupstaður,2022,937,71,157
+Bolungarvíkurkaupstaður,2023,973,72,160
+Bolungarvíkurkaupstaður,2024,989,69,160
+Bolungarvíkurkaupstaður,2025,995,63,160
 Ísafjarðarbær,1998,4423,463,993
 Ísafjarðarbær,1999,4482,454,974
 Ísafjarðarbær,2000,4280,424,934
@@ -558,19 +600,21 @@ Bolungarvíkurkaupstaður,2023,997,72,160
 Ísafjarðarbær,2008,3976,295,812
 Ísafjarðarbær,2009,3972,293,808
 Ísafjarðarbær,2010,3899,310,750
-Ísafjarðarbær,2011,3824,305,719
-Ísafjarðarbær,2012,3755,293,699
-Ísafjarðarbær,2013,3748,282,680
-Ísafjarðarbær,2014,3639,289,611
-Ísafjarðarbær,2015,3629,280,604
-Ísafjarðarbær,2016,3623,281,590
-Ísafjarðarbær,2017,3608,277,582
-Ísafjarðarbær,2018,3707,267,579
-Ísafjarðarbær,2019,3800,265,606
-Ísafjarðarbær,2020,3809,267,598
-Ísafjarðarbær,2021,3794,271,591
-Ísafjarðarbær,2022,3840,273,577
-Ísafjarðarbær,2023,3864,261,615
+Ísafjarðarbær,2011,3795,302,717
+Ísafjarðarbær,2012,3708,291,699
+Ísafjarðarbær,2013,3685,282,678
+Ísafjarðarbær,2014,3570,289,611
+Ísafjarðarbær,2015,3550,278,604
+Ísafjarðarbær,2016,3552,279,589
+Ísafjarðarbær,2017,3556,276,580
+Ísafjarðarbær,2018,3645,267,576
+Ísafjarðarbær,2019,3722,263,604
+Ísafjarðarbær,2020,3712,264,593
+Ísafjarðarbær,2021,3670,269,583
+Ísafjarðarbær,2022,3716,273,569
+Ísafjarðarbær,2023,3730,260,606
+Ísafjarðarbær,2024,3797,253,615
+Ísafjarðarbær,2025,3832,252,618
 Reykhólahreppur,1998,335,35,68
 Reykhólahreppur,1999,307,23,67
 Reykhólahreppur,2000,299,17,68
@@ -584,71 +628,49 @@ Reykhólahreppur,2007,255,19,47
 Reykhólahreppur,2008,267,27,43
 Reykhólahreppur,2009,280,31,46
 Reykhólahreppur,2010,291,35,47
-Reykhólahreppur,2011,278,30,43
-Reykhólahreppur,2012,271,28,37
-Reykhólahreppur,2013,280,26,44
-Reykhólahreppur,2014,271,25,46
-Reykhólahreppur,2015,268,24,48
-Reykhólahreppur,2016,267,21,53
-Reykhólahreppur,2017,282,24,55
-Reykhólahreppur,2018,275,26,48
-Reykhólahreppur,2019,258,25,50
-Reykhólahreppur,2020,262,21,56
-Reykhólahreppur,2021,236,14,49
-Reykhólahreppur,2022,233,15,42
-Reykhólahreppur,2023,242,18,41
-Tálknafjarðarhreppur,1998,327,41,78
-Tálknafjarðarhreppur,1999,348,44,81
-Tálknafjarðarhreppur,2000,367,46,83
-Tálknafjarðarhreppur,2001,367,48,78
-Tálknafjarðarhreppur,2002,373,46,84
-Tálknafjarðarhreppur,2003,346,33,83
-Tálknafjarðarhreppur,2004,346,33,82
-Tálknafjarðarhreppur,2005,325,28,80
-Tálknafjarðarhreppur,2006,302,27,64
-Tálknafjarðarhreppur,2007,293,26,56
-Tálknafjarðarhreppur,2008,295,25,56
-Tálknafjarðarhreppur,2009,308,30,60
-Tálknafjarðarhreppur,2010,299,28,56
-Tálknafjarðarhreppur,2011,306,28,65
-Tálknafjarðarhreppur,2012,276,26,59
-Tálknafjarðarhreppur,2013,293,26,62
-Tálknafjarðarhreppur,2014,297,28,63
-Tálknafjarðarhreppur,2015,305,28,61
-Tálknafjarðarhreppur,2016,267,21,50
-Tálknafjarðarhreppur,2017,236,13,50
-Tálknafjarðarhreppur,2018,244,13,39
-Tálknafjarðarhreppur,2019,258,12,48
-Tálknafjarðarhreppur,2020,251,13,49
-Tálknafjarðarhreppur,2021,268,16,50
-Tálknafjarðarhreppur,2022,255,13,51
-Tálknafjarðarhreppur,2023,268,14,47
-Vesturbyggð,1998,1254,125,294
-Vesturbyggð,1999,1254,103,291
-Vesturbyggð,2000,1229,97,281
-Vesturbyggð,2001,1162,86,265
-Vesturbyggð,2002,1141,79,254
-Vesturbyggð,2003,1122,95,229
-Vesturbyggð,2004,1073,87,217
-Vesturbyggð,2005,1019,80,195
-Vesturbyggð,2006,964,75,180
-Vesturbyggð,2007,939,54,183
-Vesturbyggð,2008,928,60,173
-Vesturbyggð,2009,900,57,179
-Vesturbyggð,2010,935,67,168
-Vesturbyggð,2011,890,63,150
-Vesturbyggð,2012,910,68,141
-Vesturbyggð,2013,941,78,145
-Vesturbyggð,2014,949,73,146
-Vesturbyggð,2015,1002,81,163
-Vesturbyggð,2016,1013,75,174
-Vesturbyggð,2017,1030,78,179
-Vesturbyggð,2018,1024,81,177
-Vesturbyggð,2019,998,73,173
-Vesturbyggð,2020,1021,84,147
-Vesturbyggð,2021,1064,87,156
-Vesturbyggð,2022,1131,94,145
-Vesturbyggð,2023,1182,94,145
+Reykhólahreppur,2011,271,27,42
+Reykhólahreppur,2012,261,25,36
+Reykhólahreppur,2013,273,23,43
+Reykhólahreppur,2014,261,23,44
+Reykhólahreppur,2015,258,22,46
+Reykhólahreppur,2016,258,20,50
+Reykhólahreppur,2017,279,24,55
+Reykhólahreppur,2018,272,26,48
+Reykhólahreppur,2019,255,25,50
+Reykhólahreppur,2020,258,21,56
+Reykhólahreppur,2021,231,14,49
+Reykhólahreppur,2022,228,15,42
+Reykhólahreppur,2023,239,18,41
+Reykhólahreppur,2024,236,13,40
+Reykhólahreppur,2025,246,14,43
+Vesturbyggð,1998,1581,166,372
+Vesturbyggð,1999,1602,147,372
+Vesturbyggð,2000,1596,143,364
+Vesturbyggð,2001,1529,134,343
+Vesturbyggð,2002,1514,125,338
+Vesturbyggð,2003,1468,128,312
+Vesturbyggð,2004,1419,120,299
+Vesturbyggð,2005,1344,108,275
+Vesturbyggð,2006,1266,102,244
+Vesturbyggð,2007,1232,80,239
+Vesturbyggð,2008,1223,85,229
+Vesturbyggð,2009,1208,87,239
+Vesturbyggð,2010,1234,95,224
+Vesturbyggð,2011,1179,91,214
+Vesturbyggð,2012,1168,92,200
+Vesturbyggð,2013,1214,104,207
+Vesturbyggð,2014,1221,99,207
+Vesturbyggð,2015,1286,109,222
+Vesturbyggð,2016,1252,96,223
+Vesturbyggð,2017,1241,88,229
+Vesturbyggð,2018,1243,94,212
+Vesturbyggð,2019,1224,84,221
+Vesturbyggð,2020,1234,95,196
+Vesturbyggð,2021,1277,100,206
+Vesturbyggð,2022,1323,106,196
+Vesturbyggð,2023,1362,107,191
+Vesturbyggð,2024,1356,90,187
+Vesturbyggð,2025,1314,85,175
 Súðavíkurhreppur,1998,271,35,55
 Súðavíkurhreppur,1999,261,30,45
 Súðavíkurhreppur,2000,255,31,49
@@ -662,19 +684,21 @@ Súðavíkurhreppur,2007,225,23,45
 Súðavíkurhreppur,2008,214,22,38
 Súðavíkurhreppur,2009,212,16,41
 Súðavíkurhreppur,2010,202,13,43
-Súðavíkurhreppur,2011,192,13,36
-Súðavíkurhreppur,2012,182,8,38
-Súðavíkurhreppur,2013,179,7,35
-Súðavíkurhreppur,2014,202,15,37
-Súðavíkurhreppur,2015,204,16,32
-Súðavíkurhreppur,2016,184,12,28
-Súðavíkurhreppur,2017,186,14,25
-Súðavíkurhreppur,2018,196,14,29
-Súðavíkurhreppur,2019,204,16,31
-Súðavíkurhreppur,2020,208,10,31
-Súðavíkurhreppur,2021,201,13,24
-Súðavíkurhreppur,2022,215,12,20
-Súðavíkurhreppur,2023,235,14,22
+Súðavíkurhreppur,2011,191,13,36
+Súðavíkurhreppur,2012,179,8,38
+Súðavíkurhreppur,2013,176,7,35
+Súðavíkurhreppur,2014,199,15,37
+Súðavíkurhreppur,2015,202,16,32
+Súðavíkurhreppur,2016,178,12,27
+Súðavíkurhreppur,2017,180,14,25
+Súðavíkurhreppur,2018,187,13,29
+Súðavíkurhreppur,2019,197,16,29
+Súðavíkurhreppur,2020,199,10,30
+Súðavíkurhreppur,2021,197,13,24
+Súðavíkurhreppur,2022,203,12,20
+Súðavíkurhreppur,2023,223,14,22
+Súðavíkurhreppur,2024,219,15,24
+Súðavíkurhreppur,2025,209,14,19
 Árneshreppur,1998,72,1,15
 Árneshreppur,1999,71,0,15
 Árneshreppur,2000,67,0,13
@@ -691,16 +715,18 @@ Súðavíkurhreppur,2023,235,14,22
 Árneshreppur,2011,52,3,6
 Árneshreppur,2012,52,3,4
 Árneshreppur,2013,54,2,8
-Árneshreppur,2014,53,3,6
+Árneshreppur,2014,52,3,6
 Árneshreppur,2015,54,2,7
 Árneshreppur,2016,55,1,8
 Árneshreppur,2017,46,0,5
-Árneshreppur,2018,43,0,2
+Árneshreppur,2018,42,0,2
 Árneshreppur,2019,40,0,2
 Árneshreppur,2020,43,0,1
-Árneshreppur,2021,42,0,0
-Árneshreppur,2022,42,0,0
+Árneshreppur,2021,41,0,0
+Árneshreppur,2022,40,0,0
 Árneshreppur,2023,47,0,1
+Árneshreppur,2024,53,0,3
+Árneshreppur,2025,60,0,2
 Kaldrananeshreppur,1998,142,11,33
 Kaldrananeshreppur,1999,142,16,29
 Kaldrananeshreppur,2000,144,16,28
@@ -714,19 +740,21 @@ Kaldrananeshreppur,2007,101,4,21
 Kaldrananeshreppur,2008,103,4,16
 Kaldrananeshreppur,2009,110,4,16
 Kaldrananeshreppur,2010,112,6,18
-Kaldrananeshreppur,2011,106,6,16
-Kaldrananeshreppur,2012,104,6,16
+Kaldrananeshreppur,2011,104,6,16
+Kaldrananeshreppur,2012,101,6,16
 Kaldrananeshreppur,2013,100,5,13
-Kaldrananeshreppur,2014,105,8,15
-Kaldrananeshreppur,2015,112,11,19
+Kaldrananeshreppur,2014,104,8,15
+Kaldrananeshreppur,2015,111,11,19
 Kaldrananeshreppur,2016,103,7,15
 Kaldrananeshreppur,2017,106,8,14
 Kaldrananeshreppur,2018,109,8,11
-Kaldrananeshreppur,2019,103,5,9
-Kaldrananeshreppur,2020,109,1,11
-Kaldrananeshreppur,2021,110,2,9
-Kaldrananeshreppur,2022,109,1,8
-Kaldrananeshreppur,2023,116,2,11
+Kaldrananeshreppur,2019,102,5,9
+Kaldrananeshreppur,2020,103,1,11
+Kaldrananeshreppur,2021,108,2,9
+Kaldrananeshreppur,2022,106,1,8
+Kaldrananeshreppur,2023,113,2,11
+Kaldrananeshreppur,2024,104,1,13
+Kaldrananeshreppur,2025,115,1,13
 Strandabyggð,1998,639,54,141
 Strandabyggð,1999,620,50,138
 Strandabyggð,2000,577,43,124
@@ -740,19 +768,21 @@ Strandabyggð,2007,507,34,109
 Strandabyggð,2008,499,38,101
 Strandabyggð,2009,490,34,103
 Strandabyggð,2010,508,32,112
-Strandabyggð,2011,501,36,106
-Strandabyggð,2012,516,42,104
-Strandabyggð,2013,518,37,103
-Strandabyggð,2014,506,33,94
-Strandabyggð,2015,473,28,80
-Strandabyggð,2016,467,35,80
-Strandabyggð,2017,468,36,84
-Strandabyggð,2018,451,24,73
-Strandabyggð,2019,449,25,63
-Strandabyggð,2020,457,30,65
-Strandabyggð,2021,435,29,62
-Strandabyggð,2022,424,28,57
-Strandabyggð,2023,428,25,54
+Strandabyggð,2011,495,36,106
+Strandabyggð,2012,511,42,104
+Strandabyggð,2013,511,37,103
+Strandabyggð,2014,503,33,94
+Strandabyggð,2015,468,28,80
+Strandabyggð,2016,459,35,77
+Strandabyggð,2017,461,36,81
+Strandabyggð,2018,443,24,70
+Strandabyggð,2019,434,24,61
+Strandabyggð,2020,436,29,61
+Strandabyggð,2021,418,29,60
+Strandabyggð,2022,406,28,55
+Strandabyggð,2023,412,25,53
+Strandabyggð,2024,414,22,54
+Strandabyggð,2025,405,21,54
 Húnaþing vestra,1998,1412,98,316
 Húnaþing vestra,1999,1378,106,299
 Húnaþing vestra,2000,1334,101,270
@@ -766,19 +796,21 @@ Húnaþing vestra,2007,1267,106,235
 Húnaþing vestra,2008,1253,109,227
 Húnaþing vestra,2009,1245,109,227
 Húnaþing vestra,2010,1212,98,211
-Húnaþing vestra,2011,1222,90,224
-Húnaþing vestra,2012,1187,77,224
-Húnaþing vestra,2013,1177,69,223
-Húnaþing vestra,2014,1173,70,218
-Húnaþing vestra,2015,1171,60,219
-Húnaþing vestra,2016,1160,65,196
-Húnaþing vestra,2017,1174,70,207
-Húnaþing vestra,2018,1193,74,195
-Húnaþing vestra,2019,1181,71,186
-Húnaþing vestra,2020,1211,75,193
-Húnaþing vestra,2021,1222,74,194
-Húnaþing vestra,2022,1226,71,197
-Húnaþing vestra,2023,1258,75,194
+Húnaþing vestra,2011,1199,90,224
+Húnaþing vestra,2012,1169,77,224
+Húnaþing vestra,2013,1161,69,223
+Húnaþing vestra,2014,1158,70,218
+Húnaþing vestra,2015,1157,60,219
+Húnaþing vestra,2016,1139,65,196
+Húnaþing vestra,2017,1157,70,207
+Húnaþing vestra,2018,1181,74,195
+Húnaþing vestra,2019,1168,71,186
+Húnaþing vestra,2020,1191,75,193
+Húnaþing vestra,2021,1191,74,194
+Húnaþing vestra,2022,1191,71,197
+Húnaþing vestra,2023,1217,75,194
+Húnaþing vestra,2024,1212,66,179
+Húnaþing vestra,2025,1203,77,170
 Sveitarfélagið Skagaströnd,1998,628,70,147
 Sveitarfélagið Skagaströnd,1999,601,68,135
 Sveitarfélagið Skagaströnd,2000,615,68,148
@@ -792,71 +824,49 @@ Sveitarfélagið Skagaströnd,2007,532,53,113
 Sveitarfélagið Skagaströnd,2008,530,53,109
 Sveitarfélagið Skagaströnd,2009,521,49,113
 Sveitarfélagið Skagaströnd,2010,519,45,116
-Sveitarfélagið Skagaströnd,2011,530,40,123
-Sveitarfélagið Skagaströnd,2012,504,36,116
-Sveitarfélagið Skagaströnd,2013,506,37,113
-Sveitarfélagið Skagaströnd,2014,498,35,106
-Sveitarfélagið Skagaströnd,2015,488,35,106
-Sveitarfélagið Skagaströnd,2016,489,37,100
-Sveitarfélagið Skagaströnd,2017,479,31,100
-Sveitarfélagið Skagaströnd,2018,482,32,95
-Sveitarfélagið Skagaströnd,2019,452,24,93
-Sveitarfélagið Skagaströnd,2020,473,23,93
-Sveitarfélagið Skagaströnd,2021,470,26,90
-Sveitarfélagið Skagaströnd,2022,483,37,86
-Sveitarfélagið Skagaströnd,2023,484,39,86
-Skagabyggð,1998,91,8,14
-Skagabyggð,1999,98,9,15
-Skagabyggð,2000,102,10,17
-Skagabyggð,2001,105,13,18
-Skagabyggð,2002,103,12,19
-Skagabyggð,2003,99,13,18
-Skagabyggð,2004,97,10,21
-Skagabyggð,2005,101,10,22
-Skagabyggð,2006,99,10,22
-Skagabyggð,2007,96,7,22
-Skagabyggð,2008,105,7,25
-Skagabyggð,2009,102,4,27
-Skagabyggð,2010,106,6,28
-Skagabyggð,2011,105,6,27
-Skagabyggð,2012,104,8,27
-Skagabyggð,2013,100,6,26
-Skagabyggð,2014,98,5,26
-Skagabyggð,2015,99,4,22
-Skagabyggð,2016,109,6,24
-Skagabyggð,2017,101,3,20
-Skagabyggð,2018,93,5,19
-Skagabyggð,2019,90,5,19
-Skagabyggð,2020,90,6,18
-Skagabyggð,2021,92,6,16
-Skagabyggð,2022,90,7,15
-Skagabyggð,2023,89,6,14
-Húnabyggð,1998,1585,141,351
-Húnabyggð,1999,1575,136,335
-Húnabyggð,2000,1508,133,316
-Húnabyggð,2001,1501,129,317
-Húnabyggð,2002,1473,120,307
-Húnabyggð,2003,1453,120,295
-Húnabyggð,2004,1443,118,293
-Húnabyggð,2005,1403,98,288
-Húnabyggð,2006,1369,95,289
-Húnabyggð,2007,1357,94,272
-Húnabyggð,2008,1353,92,265
-Húnabyggð,2009,1335,93,258
-Húnabyggð,2010,1313,89,249
-Húnabyggð,2011,1321,98,242
-Húnabyggð,2012,1283,97,224
-Húnabyggð,2013,1283,97,235
-Húnabyggð,2014,1290,105,245
-Húnabyggð,2015,1275,99,240
-Húnabyggð,2016,1268,101,232
-Húnabyggð,2017,1274,89,238
-Húnabyggð,2018,1278,94,233
-Húnabyggð,2019,1310,101,221
-Húnabyggð,2020,1309,94,229
-Húnabyggð,2021,1322,102,226
-Húnabyggð,2022,1312,97,230
-Húnabyggð,2023,1295,97,219
+Sveitarfélagið Skagaströnd,2011,527,40,123
+Sveitarfélagið Skagaströnd,2012,500,36,116
+Sveitarfélagið Skagaströnd,2013,503,37,113
+Sveitarfélagið Skagaströnd,2014,494,35,106
+Sveitarfélagið Skagaströnd,2015,485,35,106
+Sveitarfélagið Skagaströnd,2016,487,38,100
+Sveitarfélagið Skagaströnd,2017,476,31,100
+Sveitarfélagið Skagaströnd,2018,478,32,95
+Sveitarfélagið Skagaströnd,2019,447,24,93
+Sveitarfélagið Skagaströnd,2020,465,22,93
+Sveitarfélagið Skagaströnd,2021,460,26,89
+Sveitarfélagið Skagaströnd,2022,475,37,85
+Sveitarfélagið Skagaströnd,2023,474,39,85
+Sveitarfélagið Skagaströnd,2024,457,35,78
+Sveitarfélagið Skagaströnd,2025,462,33,79
+Húnabyggð,1998,1676,149,365
+Húnabyggð,1999,1673,145,350
+Húnabyggð,2000,1610,143,333
+Húnabyggð,2001,1606,142,335
+Húnabyggð,2002,1576,132,326
+Húnabyggð,2003,1552,133,313
+Húnabyggð,2004,1540,128,314
+Húnabyggð,2005,1504,108,310
+Húnabyggð,2006,1468,105,311
+Húnabyggð,2007,1453,101,294
+Húnabyggð,2008,1458,99,290
+Húnabyggð,2009,1437,97,285
+Húnabyggð,2010,1419,95,277
+Húnabyggð,2011,1393,103,267
+Húnabyggð,2012,1361,105,250
+Húnabyggð,2013,1361,103,260
+Húnabyggð,2014,1370,110,268
+Húnabyggð,2015,1362,103,261
+Húnabyggð,2016,1360,107,255
+Húnabyggð,2017,1365,92,258
+Húnabyggð,2018,1363,99,251
+Húnabyggð,2019,1389,106,240
+Húnabyggð,2020,1379,100,247
+Húnabyggð,2021,1391,108,242
+Húnabyggð,2022,1375,103,244
+Húnabyggð,2023,1350,103,231
+Húnabyggð,2024,1349,95,245
+Húnabyggð,2025,1374,95,249
 Skagafjörður,1998,4536,414,994
 Skagafjörður,1999,4434,381,981
 Skagafjörður,2000,4411,371,967
@@ -870,19 +880,21 @@ Skagafjörður,2007,4305,332,884
 Skagafjörður,2008,4241,316,845
 Skagafjörður,2009,4296,324,844
 Skagafjörður,2010,4340,335,832
-Skagafjörður,2011,4315,324,816
-Skagafjörður,2012,4221,276,792
-Skagafjörður,2013,4205,299,772
-Skagafjörður,2014,4186,305,751
-Skagafjörður,2015,4104,303,724
-Skagafjörður,2016,4102,310,707
-Skagafjörður,2017,4128,298,714
-Skagafjörður,2018,4149,316,708
-Skagafjörður,2019,4194,305,696
-Skagafjörður,2020,4239,293,690
-Skagafjörður,2021,4294,308,710
-Skagafjörður,2022,4294,300,712
-Skagafjörður,2023,4306,305,703
+Skagafjörður,2011,4241,323,812
+Skagafjörður,2012,4152,275,790
+Skagafjörður,2013,4161,299,772
+Skagafjörður,2014,4133,304,751
+Skagafjörður,2015,4066,303,724
+Skagafjörður,2016,4057,310,707
+Skagafjörður,2017,4088,298,709
+Skagafjörður,2018,4106,316,704
+Skagafjörður,2019,4148,305,695
+Skagafjörður,2020,4175,292,688
+Skagafjörður,2021,4212,308,709
+Skagafjörður,2022,4200,299,712
+Skagafjörður,2023,4206,305,702
+Skagafjörður,2024,4276,316,716
+Skagafjörður,2025,4316,311,714
 Akureyrarbær,1998,15428,1487,3283
 Akureyrarbær,1999,15442,1474,3235
 Akureyrarbær,2000,15456,1471,3197
@@ -896,19 +908,21 @@ Akureyrarbær,2007,16921,1523,3436
 Akureyrarbær,2008,17423,1584,3511
 Akureyrarbær,2009,17633,1607,3515
 Akureyrarbær,2010,17573,1582,3486
-Akureyrarbær,2011,17754,1642,3434
-Akureyrarbær,2012,17875,1651,3423
-Akureyrarbær,2013,17966,1639,3418
-Akureyrarbær,2014,18103,1575,3437
-Akureyrarbær,2015,18191,1530,3454
-Akureyrarbær,2016,18294,1498,3467
-Akureyrarbær,2017,18488,1429,3548
-Akureyrarbær,2018,18787,1446,3527
-Akureyrarbær,2019,18925,1369,3571
-Akureyrarbær,2020,19025,1307,3561
-Akureyrarbær,2021,19219,1279,3561
-Akureyrarbær,2022,19642,1345,3550
-Akureyrarbær,2023,19893,1321,3499
+Akureyrarbær,2011,17625,1635,3427
+Akureyrarbær,2012,17725,1643,3415
+Akureyrarbær,2013,17820,1633,3414
+Akureyrarbær,2014,17957,1571,3433
+Akureyrarbær,2015,18030,1525,3451
+Akureyrarbær,2016,18118,1489,3463
+Akureyrarbær,2017,18321,1422,3541
+Akureyrarbær,2018,18624,1441,3521
+Akureyrarbær,2019,18723,1361,3563
+Akureyrarbær,2020,18761,1293,3552
+Akureyrarbær,2021,18935,1271,3545
+Akureyrarbær,2022,19330,1335,3534
+Akureyrarbær,2023,19559,1313,3490
+Akureyrarbær,2024,19812,1342,3443
+Akureyrarbær,2025,20050,1347,3429
 Norðurþing,1998,3471,363,769
 Norðurþing,1999,3454,339,767
 Norðurþing,2000,3390,315,750
@@ -922,19 +936,21 @@ Norðurþing,2007,3011,197,634
 Norðurþing,2008,2983,207,588
 Norðurþing,2009,3001,202,603
 Norðurþing,2010,2926,205,552
-Norðurþing,2011,2905,204,521
-Norðurþing,2012,2884,203,505
-Norðurþing,2013,2864,193,492
-Norðurþing,2014,2822,175,474
-Norðurþing,2015,2806,179,468
-Norðurþing,2016,2825,171,450
-Norðurþing,2017,2963,168,433
-Norðurþing,2018,3234,184,423
-Norðurþing,2019,3042,191,409
-Norðurþing,2020,3115,208,409
-Norðurþing,2021,3030,208,420
-Norðurþing,2022,3041,200,425
-Norðurþing,2023,3156,214,433
+Norðurþing,2011,2880,204,520
+Norðurþing,2012,2865,203,504
+Norðurþing,2013,2837,192,491
+Norðurþing,2014,2796,174,472
+Norðurþing,2015,2768,177,466
+Norðurþing,2016,2784,171,449
+Norðurþing,2017,2923,166,432
+Norðurþing,2018,3159,181,421
+Norðurþing,2019,2930,189,408
+Norðurþing,2020,2997,208,409
+Norðurþing,2021,2954,208,420
+Norðurþing,2022,2957,197,422
+Norðurþing,2023,3063,211,431
+Norðurþing,2024,3081,221,437
+Norðurþing,2025,3114,206,432
 Fjallabyggð,1998,2731,257,620
 Fjallabyggð,1999,2690,251,598
 Fjallabyggð,2000,2633,237,571
@@ -948,19 +964,21 @@ Fjallabyggð,2007,2280,125,438
 Fjallabyggð,2008,2195,105,405
 Fjallabyggð,2009,2127,94,385
 Fjallabyggð,2010,2066,99,383
-Fjallabyggð,2011,2030,105,360
-Fjallabyggð,2012,2035,109,357
-Fjallabyggð,2013,2012,121,331
-Fjallabyggð,2014,2010,128,307
-Fjallabyggð,2015,2037,132,293
-Fjallabyggð,2016,2025,136,277
-Fjallabyggð,2017,2033,139,279
-Fjallabyggð,2018,2015,131,270
-Fjallabyggð,2019,2007,117,276
-Fjallabyggð,2020,2006,132,264
-Fjallabyggð,2021,1970,123,260
-Fjallabyggð,2022,1966,133,262
-Fjallabyggð,2023,1977,135,275
+Fjallabyggð,2011,2015,105,360
+Fjallabyggð,2012,2014,109,355
+Fjallabyggð,2013,2001,121,331
+Fjallabyggð,2014,1997,128,307
+Fjallabyggð,2015,2021,132,293
+Fjallabyggð,2016,2011,136,277
+Fjallabyggð,2017,2016,138,279
+Fjallabyggð,2018,1998,131,269
+Fjallabyggð,2019,1983,115,274
+Fjallabyggð,2020,1986,132,264
+Fjallabyggð,2021,1948,123,260
+Fjallabyggð,2022,1942,132,262
+Fjallabyggð,2023,1948,135,275
+Fjallabyggð,2024,1973,129,280
+Fjallabyggð,2025,1966,131,277
 Dalvíkurbyggð,1998,2082,196,492
 Dalvíkurbyggð,1999,2061,210,478
 Dalvíkurbyggð,2000,2050,221,473
@@ -974,19 +992,21 @@ Dalvíkurbyggð,2007,1958,151,449
 Dalvíkurbyggð,2008,1959,147,427
 Dalvíkurbyggð,2009,1947,157,415
 Dalvíkurbyggð,2010,1949,167,403
-Dalvíkurbyggð,2011,1960,172,375
-Dalvíkurbyggð,2012,1900,159,366
-Dalvíkurbyggð,2013,1864,154,376
-Dalvíkurbyggð,2014,1867,148,365
-Dalvíkurbyggð,2015,1861,142,367
-Dalvíkurbyggð,2016,1840,135,355
-Dalvíkurbyggð,2017,1831,136,335
-Dalvíkurbyggð,2018,1880,145,333
-Dalvíkurbyggð,2019,1905,147,321
-Dalvíkurbyggð,2020,1903,128,316
-Dalvíkurbyggð,2021,1855,111,316
-Dalvíkurbyggð,2022,1860,122,306
-Dalvíkurbyggð,2023,1906,128,315
+Dalvíkurbyggð,2011,1940,171,375
+Dalvíkurbyggð,2012,1891,159,366
+Dalvíkurbyggð,2013,1859,154,376
+Dalvíkurbyggð,2014,1856,146,365
+Dalvíkurbyggð,2015,1849,141,366
+Dalvíkurbyggð,2016,1829,134,354
+Dalvíkurbyggð,2017,1815,134,334
+Dalvíkurbyggð,2018,1848,141,327
+Dalvíkurbyggð,2019,1878,143,317
+Dalvíkurbyggð,2020,1870,126,314
+Dalvíkurbyggð,2021,1824,111,314
+Dalvíkurbyggð,2022,1828,121,304
+Dalvíkurbyggð,2023,1874,126,313
+Dalvíkurbyggð,2024,1866,121,306
+Dalvíkurbyggð,2025,1906,137,318
 Eyjafjarðarsveit,1998,936,84,236
 Eyjafjarðarsveit,1999,952,83,237
 Eyjafjarðarsveit,2000,964,79,236
@@ -1000,19 +1020,21 @@ Eyjafjarðarsveit,2007,1004,86,247
 Eyjafjarðarsveit,2008,1009,83,248
 Eyjafjarðarsveit,2009,1039,91,252
 Eyjafjarðarsveit,2010,1025,86,248
-Eyjafjarðarsveit,2011,1025,74,261
-Eyjafjarðarsveit,2012,1031,68,254
-Eyjafjarðarsveit,2013,1012,71,241
-Eyjafjarðarsveit,2014,1026,74,234
-Eyjafjarðarsveit,2015,1032,81,225
-Eyjafjarðarsveit,2016,1035,76,216
-Eyjafjarðarsveit,2017,1015,73,198
-Eyjafjarðarsveit,2018,1016,73,190
-Eyjafjarðarsveit,2019,1042,73,191
-Eyjafjarðarsveit,2020,1077,85,208
-Eyjafjarðarsveit,2021,1097,77,217
-Eyjafjarðarsveit,2022,1119,81,220
-Eyjafjarðarsveit,2023,1171,93,227
+Eyjafjarðarsveit,2011,1007,72,261
+Eyjafjarðarsveit,2012,1015,68,253
+Eyjafjarðarsveit,2013,1003,71,241
+Eyjafjarðarsveit,2014,1008,72,233
+Eyjafjarðarsveit,2015,1016,80,223
+Eyjafjarðarsveit,2016,1016,75,214
+Eyjafjarðarsveit,2017,1000,72,198
+Eyjafjarðarsveit,2018,1003,72,190
+Eyjafjarðarsveit,2019,1031,71,191
+Eyjafjarðarsveit,2020,1060,82,208
+Eyjafjarðarsveit,2021,1081,77,217
+Eyjafjarðarsveit,2022,1101,81,220
+Eyjafjarðarsveit,2023,1149,93,227
+Eyjafjarðarsveit,2024,1162,94,224
+Eyjafjarðarsveit,2025,1184,96,222
 Hörgársveit,1998,613,55,127
 Hörgársveit,1999,582,55,125
 Hörgársveit,2000,580,51,122
@@ -1026,19 +1048,21 @@ Hörgársveit,2007,587,37,130
 Hörgársveit,2008,589,35,128
 Hörgársveit,2009,590,42,127
 Hörgársveit,2010,607,38,119
-Hörgársveit,2011,600,35,121
-Hörgársveit,2012,584,31,121
-Hörgársveit,2013,566,24,115
-Hörgársveit,2014,559,25,107
-Hörgársveit,2015,567,32,106
-Hörgársveit,2016,557,28,102
-Hörgársveit,2017,574,35,105
-Hörgársveit,2018,580,37,98
-Hörgársveit,2019,616,42,109
-Hörgársveit,2020,623,49,98
-Hörgársveit,2021,653,56,95
-Hörgársveit,2022,704,72,98
-Hörgársveit,2023,780,79,105
+Hörgársveit,2011,593,35,121
+Hörgársveit,2012,576,31,121
+Hörgársveit,2013,557,24,113
+Hörgársveit,2014,550,25,105
+Hörgársveit,2015,564,32,105
+Hörgársveit,2016,547,28,101
+Hörgársveit,2017,563,35,105
+Hörgársveit,2018,569,37,98
+Hörgársveit,2019,606,42,109
+Hörgársveit,2020,611,49,98
+Hörgársveit,2021,642,56,94
+Hörgársveit,2022,692,72,97
+Hörgársveit,2023,766,79,105
+Hörgársveit,2024,791,65,119
+Hörgársveit,2025,847,83,125
 Svalbarðsstrandarhreppur,1998,342,35,88
 Svalbarðsstrandarhreppur,1999,325,28,86
 Svalbarðsstrandarhreppur,2000,341,32,90
@@ -1052,19 +1076,21 @@ Svalbarðsstrandarhreppur,2007,381,31,89
 Svalbarðsstrandarhreppur,2008,390,35,87
 Svalbarðsstrandarhreppur,2009,396,32,87
 Svalbarðsstrandarhreppur,2010,413,35,84
-Svalbarðsstrandarhreppur,2011,400,32,73
-Svalbarðsstrandarhreppur,2012,390,33,68
-Svalbarðsstrandarhreppur,2013,414,36,70
-Svalbarðsstrandarhreppur,2014,387,33,59
-Svalbarðsstrandarhreppur,2015,414,34,56
-Svalbarðsstrandarhreppur,2016,438,36,61
-Svalbarðsstrandarhreppur,2017,451,29,65
-Svalbarðsstrandarhreppur,2018,483,33,68
-Svalbarðsstrandarhreppur,2019,491,36,71
-Svalbarðsstrandarhreppur,2020,483,40,68
-Svalbarðsstrandarhreppur,2021,441,41,67
-Svalbarðsstrandarhreppur,2022,449,41,69
-Svalbarðsstrandarhreppur,2023,485,50,73
+Svalbarðsstrandarhreppur,2011,390,32,73
+Svalbarðsstrandarhreppur,2012,381,33,68
+Svalbarðsstrandarhreppur,2013,405,36,70
+Svalbarðsstrandarhreppur,2014,379,33,59
+Svalbarðsstrandarhreppur,2015,407,34,56
+Svalbarðsstrandarhreppur,2016,423,36,61
+Svalbarðsstrandarhreppur,2017,438,29,65
+Svalbarðsstrandarhreppur,2018,473,33,68
+Svalbarðsstrandarhreppur,2019,470,36,71
+Svalbarðsstrandarhreppur,2020,440,40,68
+Svalbarðsstrandarhreppur,2021,429,41,67
+Svalbarðsstrandarhreppur,2022,440,41,69
+Svalbarðsstrandarhreppur,2023,475,49,72
+Svalbarðsstrandarhreppur,2024,491,45,78
+Svalbarðsstrandarhreppur,2025,504,41,81
 Grýtubakkahreppur,1998,377,32,79
 Grýtubakkahreppur,1999,378,36,72
 Grýtubakkahreppur,2000,374,39,58
@@ -1078,19 +1104,21 @@ Grýtubakkahreppur,2007,369,36,79
 Grýtubakkahreppur,2008,354,25,79
 Grýtubakkahreppur,2009,338,25,72
 Grýtubakkahreppur,2010,337,26,74
-Grýtubakkahreppur,2011,334,30,67
-Grýtubakkahreppur,2012,350,31,76
-Grýtubakkahreppur,2013,360,32,72
-Grýtubakkahreppur,2014,353,31,65
-Grýtubakkahreppur,2015,364,35,66
-Grýtubakkahreppur,2016,357,29,69
-Grýtubakkahreppur,2017,352,26,66
-Grýtubakkahreppur,2018,372,26,70
-Grýtubakkahreppur,2019,371,24,70
-Grýtubakkahreppur,2020,370,26,64
-Grýtubakkahreppur,2021,371,19,66
-Grýtubakkahreppur,2022,369,23,62
-Grýtubakkahreppur,2023,379,22,64
+Grýtubakkahreppur,2011,333,30,67
+Grýtubakkahreppur,2012,343,30,76
+Grýtubakkahreppur,2013,351,31,71
+Grýtubakkahreppur,2014,348,31,65
+Grýtubakkahreppur,2015,362,35,66
+Grýtubakkahreppur,2016,351,28,68
+Grýtubakkahreppur,2017,351,26,66
+Grýtubakkahreppur,2018,371,26,70
+Grýtubakkahreppur,2019,369,24,70
+Grýtubakkahreppur,2020,366,26,64
+Grýtubakkahreppur,2021,365,19,66
+Grýtubakkahreppur,2022,362,23,62
+Grýtubakkahreppur,2023,373,22,64
+Grýtubakkahreppur,2024,396,24,65
+Grýtubakkahreppur,2025,389,27,63
 Tjörneshreppur,1998,78,4,17
 Tjörneshreppur,1999,81,6,18
 Tjörneshreppur,2000,73,0,20
@@ -1110,13 +1138,15 @@ Tjörneshreppur,2013,55,1,1
 Tjörneshreppur,2014,55,0,3
 Tjörneshreppur,2015,59,0,5
 Tjörneshreppur,2016,60,0,3
-Tjörneshreppur,2017,59,1,2
+Tjörneshreppur,2017,57,1,2
 Tjörneshreppur,2018,58,2,2
-Tjörneshreppur,2019,55,1,2
-Tjörneshreppur,2020,54,0,4
+Tjörneshreppur,2019,53,1,2
+Tjörneshreppur,2020,53,0,4
 Tjörneshreppur,2021,56,0,4
 Tjörneshreppur,2022,61,0,4
-Tjörneshreppur,2023,60,1,4
+Tjörneshreppur,2023,56,1,4
+Tjörneshreppur,2024,52,1,3
+Tjörneshreppur,2025,53,1,2
 Þingeyjarsveit,1998,1598,119,327
 Þingeyjarsveit,1999,1527,108,305
 Þingeyjarsveit,2000,1499,108,305
@@ -1130,19 +1160,21 @@ Tjörneshreppur,2023,60,1,4
 Þingeyjarsveit,2008,1344,75,273
 Þingeyjarsveit,2009,1336,68,258
 Þingeyjarsveit,2010,1316,71,242
-Þingeyjarsveit,2011,1330,78,230
-Þingeyjarsveit,2012,1300,77,215
-Þingeyjarsveit,2013,1292,76,220
-Þingeyjarsveit,2014,1288,67,208
-Þingeyjarsveit,2015,1315,83,206
-Þingeyjarsveit,2016,1326,80,195
-Þingeyjarsveit,2017,1340,69,186
-Þingeyjarsveit,2018,1455,82,190
-Þingeyjarsveit,2019,1396,79,192
-Þingeyjarsveit,2020,1369,71,188
-Þingeyjarsveit,2021,1323,61,186
-Þingeyjarsveit,2022,1350,63,191
-Þingeyjarsveit,2023,1393,76,189
+Þingeyjarsveit,2011,1319,78,230
+Þingeyjarsveit,2012,1282,75,214
+Þingeyjarsveit,2013,1271,75,217
+Þingeyjarsveit,2014,1274,66,208
+Þingeyjarsveit,2015,1301,81,206
+Þingeyjarsveit,2016,1308,78,195
+Þingeyjarsveit,2017,1316,68,184
+Þingeyjarsveit,2018,1412,82,189
+Þingeyjarsveit,2019,1346,79,192
+Þingeyjarsveit,2020,1321,71,188
+Þingeyjarsveit,2021,1267,61,186
+Þingeyjarsveit,2022,1306,63,191
+Þingeyjarsveit,2023,1345,76,189
+Þingeyjarsveit,2024,1410,78,194
+Þingeyjarsveit,2025,1453,82,193
 Langanesbyggð,1998,761,66,150
 Langanesbyggð,1999,745,67,143
 Langanesbyggð,2000,722,67,132
@@ -1156,19 +1188,21 @@ Langanesbyggð,2007,626,58,118
 Langanesbyggð,2008,596,45,113
 Langanesbyggð,2009,616,55,119
 Langanesbyggð,2010,632,57,130
-Langanesbyggð,2011,611,52,126
-Langanesbyggð,2012,614,48,133
-Langanesbyggð,2013,621,49,128
-Langanesbyggð,2014,621,55,122
-Langanesbyggð,2015,611,58,106
-Langanesbyggð,2016,604,53,109
-Langanesbyggð,2017,579,39,103
-Langanesbyggð,2018,573,32,95
-Langanesbyggð,2019,595,30,97
-Langanesbyggð,2020,575,34,86
-Langanesbyggð,2021,598,32,89
-Langanesbyggð,2022,600,30,91
-Langanesbyggð,2023,592,28,79
+Langanesbyggð,2011,603,52,126
+Langanesbyggð,2012,609,48,133
+Langanesbyggð,2013,612,49,126
+Langanesbyggð,2014,614,55,122
+Langanesbyggð,2015,604,58,106
+Langanesbyggð,2016,597,53,109
+Langanesbyggð,2017,572,39,103
+Langanesbyggð,2018,565,32,95
+Langanesbyggð,2019,575,29,97
+Langanesbyggð,2020,555,34,85
+Langanesbyggð,2021,580,32,89
+Langanesbyggð,2022,576,30,91
+Langanesbyggð,2023,559,28,79
+Langanesbyggð,2024,540,30,73
+Langanesbyggð,2025,560,30,72
 Fjarðabyggð,1998,4671,406,1030
 Fjarðabyggð,1999,4585,399,1024
 Fjarðabyggð,2000,4434,382,978
@@ -1182,19 +1216,21 @@ Fjarðabyggð,2007,5959,350,911
 Fjarðabyggð,2008,5368,356,942
 Fjarðabyggð,2009,4920,365,894
 Fjarðabyggð,2010,4851,386,894
-Fjarðabyggð,2011,4782,367,904
-Fjarðabyggð,2012,4790,389,867
-Fjarðabyggð,2013,4809,389,860
-Fjarðabyggð,2014,4862,431,852
-Fjarðabyggð,2015,4933,450,843
-Fjarðabyggð,2016,4876,437,832
-Fjarðabyggð,2017,4873,431,854
-Fjarðabyggð,2018,4962,440,860
-Fjarðabyggð,2019,5070,414,894
-Fjarðabyggð,2020,5072,410,876
-Fjarðabyggð,2021,5079,379,868
-Fjarðabyggð,2022,5206,364,897
-Fjarðabyggð,2023,5262,343,894
+Fjarðabyggð,2011,4739,364,904
+Fjarðabyggð,2012,4731,386,866
+Fjarðabyggð,2013,4732,387,857
+Fjarðabyggð,2014,4813,431,851
+Fjarðabyggð,2015,4879,447,843
+Fjarðabyggð,2016,4807,434,830
+Fjarðabyggð,2017,4813,426,850
+Fjarðabyggð,2018,4897,439,857
+Fjarðabyggð,2019,5013,414,894
+Fjarðabyggð,2020,4983,409,875
+Fjarðabyggð,2021,4967,379,866
+Fjarðabyggð,2022,5074,363,895
+Fjarðabyggð,2023,5070,340,891
+Fjarðabyggð,2024,5163,326,885
+Fjarðabyggð,2025,5247,347,859
 Múlaþing,1998,4323,389,977
 Múlaþing,1999,4206,361,926
 Múlaþing,2000,4255,363,926
@@ -1208,19 +1244,21 @@ Múlaþing,2007,5988,390,927
 Múlaþing,2008,5416,401,905
 Múlaþing,2009,5008,412,879
 Múlaþing,2010,4750,403,878
-Múlaþing,2011,4657,386,851
-Múlaþing,2012,4675,383,842
-Múlaþing,2013,4692,379,839
-Múlaþing,2014,4732,391,845
-Múlaþing,2015,4664,391,837
-Múlaþing,2016,4681,398,814
-Múlaþing,2017,4711,398,807
-Múlaþing,2018,4792,398,818
-Múlaþing,2019,4866,404,822
-Múlaþing,2020,4922,370,832
-Múlaþing,2021,5020,370,847
-Múlaþing,2022,5057,339,857
-Múlaþing,2023,5208,331,882
+Múlaþing,2011,4604,384,847
+Múlaþing,2012,4615,379,838
+Múlaþing,2013,4638,379,834
+Múlaþing,2014,4683,391,843
+Múlaþing,2015,4624,390,837
+Múlaþing,2016,4636,398,814
+Múlaþing,2017,4672,397,807
+Múlaþing,2018,4753,397,817
+Múlaþing,2019,4818,404,821
+Múlaþing,2020,4853,370,830
+Múlaþing,2021,4929,368,841
+Múlaþing,2022,4960,338,852
+Múlaþing,2023,5076,330,877
+Múlaþing,2024,5177,346,882
+Múlaþing,2025,5232,349,899
 Vopnafjarðarhreppur,1998,852,68,185
 Vopnafjarðarhreppur,1999,820,62,172
 Vopnafjarðarhreppur,2000,789,61,158
@@ -1234,19 +1272,21 @@ Vopnafjarðarhreppur,2007,712,54,140
 Vopnafjarðarhreppur,2008,699,54,132
 Vopnafjarðarhreppur,2009,674,52,118
 Vopnafjarðarhreppur,2010,683,52,116
-Vopnafjarðarhreppur,2011,668,44,112
-Vopnafjarðarhreppur,2012,670,39,111
-Vopnafjarðarhreppur,2013,687,41,122
-Vopnafjarðarhreppur,2014,695,36,130
-Vopnafjarðarhreppur,2015,674,31,121
-Vopnafjarðarhreppur,2016,650,27,114
-Vopnafjarðarhreppur,2017,645,29,112
-Vopnafjarðarhreppur,2018,655,34,115
-Vopnafjarðarhreppur,2019,660,44,111
-Vopnafjarðarhreppur,2020,659,44,116
-Vopnafjarðarhreppur,2021,653,43,108
-Vopnafjarðarhreppur,2022,665,54,105
-Vopnafjarðarhreppur,2023,661,51,101
+Vopnafjarðarhreppur,2011,664,44,112
+Vopnafjarðarhreppur,2012,662,39,111
+Vopnafjarðarhreppur,2013,679,41,122
+Vopnafjarðarhreppur,2014,689,36,130
+Vopnafjarðarhreppur,2015,669,31,121
+Vopnafjarðarhreppur,2016,647,27,114
+Vopnafjarðarhreppur,2017,642,29,112
+Vopnafjarðarhreppur,2018,654,34,115
+Vopnafjarðarhreppur,2019,656,44,111
+Vopnafjarðarhreppur,2020,652,44,116
+Vopnafjarðarhreppur,2021,648,43,108
+Vopnafjarðarhreppur,2022,660,54,105
+Vopnafjarðarhreppur,2023,650,51,100
+Vopnafjarðarhreppur,2024,650,46,99
+Vopnafjarðarhreppur,2025,648,40,99
 Fljótsdalshreppur,1998,100,4,23
 Fljótsdalshreppur,1999,96,3,21
 Fljótsdalshreppur,2000,90,6,20
@@ -1260,19 +1300,21 @@ Fljótsdalshreppur,2007,526,5,18
 Fljótsdalshreppur,2008,394,5,17
 Fljótsdalshreppur,2009,135,6,16
 Fljótsdalshreppur,2010,89,3,13
-Fljótsdalshreppur,2011,80,1,13
-Fljótsdalshreppur,2012,78,1,11
+Fljótsdalshreppur,2011,79,1,13
+Fljótsdalshreppur,2012,77,1,11
 Fljótsdalshreppur,2013,80,0,12
 Fljótsdalshreppur,2014,68,0,9
 Fljótsdalshreppur,2015,75,0,11
-Fljótsdalshreppur,2016,74,0,9
+Fljótsdalshreppur,2016,73,0,9
 Fljótsdalshreppur,2017,81,4,7
 Fljótsdalshreppur,2018,76,3,6
-Fljótsdalshreppur,2019,74,3,5
-Fljótsdalshreppur,2020,86,1,5
-Fljótsdalshreppur,2021,98,2,1
-Fljótsdalshreppur,2022,103,2,2
-Fljótsdalshreppur,2023,96,0,2
+Fljótsdalshreppur,2019,73,3,5
+Fljótsdalshreppur,2020,84,1,5
+Fljótsdalshreppur,2021,93,2,1
+Fljótsdalshreppur,2022,97,2,2
+Fljótsdalshreppur,2023,85,0,2
+Fljótsdalshreppur,2024,95,0,4
+Fljótsdalshreppur,2025,90,1,3
 Vestmannaeyjabær,1998,4628,525,991
 Vestmannaeyjabær,1999,4584,476,1008
 Vestmannaeyjabær,2000,4581,445,1027
@@ -1286,19 +1328,21 @@ Vestmannaeyjabær,2007,4084,272,903
 Vestmannaeyjabær,2008,4055,270,887
 Vestmannaeyjabær,2009,4086,277,876
 Vestmannaeyjabær,2010,4135,290,847
-Vestmannaeyjabær,2011,4142,298,820
-Vestmannaeyjabær,2012,4194,306,799
-Vestmannaeyjabær,2013,4221,306,778
-Vestmannaeyjabær,2014,4264,321,752
-Vestmannaeyjabær,2015,4272,320,744
-Vestmannaeyjabær,2016,4282,312,734
-Vestmannaeyjabær,2017,4292,311,710
-Vestmannaeyjabær,2018,4284,296,711
-Vestmannaeyjabær,2019,4301,297,687
-Vestmannaeyjabær,2020,4355,271,679
-Vestmannaeyjabær,2021,4347,267,686
-Vestmannaeyjabær,2022,4414,286,699
-Vestmannaeyjabær,2023,4523,306,699
+Vestmannaeyjabær,2011,4092,296,816
+Vestmannaeyjabær,2012,4148,305,793
+Vestmannaeyjabær,2013,4182,305,775
+Vestmannaeyjabær,2014,4232,320,752
+Vestmannaeyjabær,2015,4239,319,743
+Vestmannaeyjabær,2016,4232,311,730
+Vestmannaeyjabær,2017,4246,310,707
+Vestmannaeyjabær,2018,4244,296,707
+Vestmannaeyjabær,2019,4243,296,682
+Vestmannaeyjabær,2020,4264,269,674
+Vestmannaeyjabær,2021,4248,266,681
+Vestmannaeyjabær,2022,4286,285,692
+Vestmannaeyjabær,2023,4376,304,697
+Vestmannaeyjabær,2024,4444,327,690
+Vestmannaeyjabær,2025,4470,321,711
 Sveitarfélagið Árborg,1998,5486,527,1201
 Sveitarfélagið Árborg,1999,5508,526,1180
 Sveitarfélagið Árborg,2000,5691,540,1220
@@ -1312,19 +1356,21 @@ Sveitarfélagið Árborg,2007,7311,716,1489
 Sveitarfélagið Árborg,2008,7635,747,1538
 Sveitarfélagið Árborg,2009,7922,797,1577
 Sveitarfélagið Árborg,2010,7811,762,1559
-Sveitarfélagið Árborg,2011,7827,772,1576
-Sveitarfélagið Árborg,2012,7783,772,1542
-Sveitarfélagið Árborg,2013,7826,738,1551
-Sveitarfélagið Árborg,2014,7889,685,1577
-Sveitarfélagið Árborg,2015,8052,654,1608
-Sveitarfélagið Árborg,2016,8206,634,1626
-Sveitarfélagið Árborg,2017,8471,637,1660
-Sveitarfélagið Árborg,2018,8995,676,1747
-Sveitarfélagið Árborg,2019,9485,709,1873
-Sveitarfélagið Árborg,2020,10055,770,1927
-Sveitarfélagið Árborg,2021,10452,819,1953
-Sveitarfélagið Árborg,2022,10834,847,2035
-Sveitarfélagið Árborg,2023,11239,869,2060
+Sveitarfélagið Árborg,2011,7729,770,1570
+Sveitarfélagið Árborg,2012,7694,770,1535
+Sveitarfélagið Árborg,2013,7740,737,1547
+Sveitarfélagið Árborg,2014,7795,682,1572
+Sveitarfélagið Árborg,2015,7960,653,1602
+Sveitarfélagið Árborg,2016,8108,632,1622
+Sveitarfélagið Árborg,2017,8368,635,1656
+Sveitarfélagið Árborg,2018,8892,673,1737
+Sveitarfélagið Árborg,2019,9364,705,1862
+Sveitarfélagið Árborg,2020,9902,763,1917
+Sveitarfélagið Árborg,2021,10286,812,1943
+Sveitarfélagið Árborg,2022,10664,842,2029
+Sveitarfélagið Árborg,2023,11052,864,2054
+Sveitarfélagið Árborg,2024,11565,867,2130
+Sveitarfélagið Árborg,2025,12064,910,2185
 Sveitarfélagið Hornafjörður,1998,2476,281,535
 Sveitarfélagið Hornafjörður,1999,2446,259,547
 Sveitarfélagið Hornafjörður,2000,2395,246,531
@@ -1338,19 +1384,21 @@ Sveitarfélagið Hornafjörður,2007,2181,158,511
 Sveitarfélagið Hornafjörður,2008,2125,154,469
 Sveitarfélagið Hornafjörður,2009,2112,137,457
 Sveitarfélagið Hornafjörður,2010,2086,130,443
-Sveitarfélagið Hornafjörður,2011,2119,144,413
-Sveitarfélagið Hornafjörður,2012,2143,146,404
-Sveitarfélagið Hornafjörður,2013,2166,134,409
-Sveitarfélagið Hornafjörður,2014,2167,142,406
-Sveitarfélagið Hornafjörður,2015,2150,151,367
-Sveitarfélagið Hornafjörður,2016,2171,147,370
-Sveitarfélagið Hornafjörður,2017,2187,149,357
-Sveitarfélagið Hornafjörður,2018,2306,149,362
-Sveitarfélagið Hornafjörður,2019,2389,159,339
-Sveitarfélagið Hornafjörður,2020,2434,150,326
-Sveitarfélagið Hornafjörður,2021,2387,135,335
-Sveitarfélagið Hornafjörður,2022,2450,159,324
-Sveitarfélagið Hornafjörður,2023,2547,156,326
+Sveitarfélagið Hornafjörður,2011,2095,142,413
+Sveitarfélagið Hornafjörður,2012,2122,146,404
+Sveitarfélagið Hornafjörður,2013,2141,134,409
+Sveitarfélagið Hornafjörður,2014,2152,142,406
+Sveitarfélagið Hornafjörður,2015,2123,151,366
+Sveitarfélagið Hornafjörður,2016,2142,146,369
+Sveitarfélagið Hornafjörður,2017,2164,148,357
+Sveitarfélagið Hornafjörður,2018,2269,147,362
+Sveitarfélagið Hornafjörður,2019,2357,158,339
+Sveitarfélagið Hornafjörður,2020,2359,150,326
+Sveitarfélagið Hornafjörður,2021,2305,135,335
+Sveitarfélagið Hornafjörður,2022,2359,159,322
+Sveitarfélagið Hornafjörður,2023,2447,156,324
+Sveitarfélagið Hornafjörður,2024,2487,151,329
+Sveitarfélagið Hornafjörður,2025,2589,152,340
 Mýrdalshreppur,1998,526,36,125
 Mýrdalshreppur,1999,521,34,120
 Mýrdalshreppur,2000,520,36,121
@@ -1364,19 +1412,21 @@ Mýrdalshreppur,2007,496,33,92
 Mýrdalshreppur,2008,489,35,87
 Mýrdalshreppur,2009,489,31,88
 Mýrdalshreppur,2010,510,37,99
-Mýrdalshreppur,2011,469,29,82
-Mýrdalshreppur,2012,459,28,76
-Mýrdalshreppur,2013,462,32,69
-Mýrdalshreppur,2014,489,33,71
-Mýrdalshreppur,2015,480,40,73
-Mýrdalshreppur,2016,525,35,69
-Mýrdalshreppur,2017,562,39,68
-Mýrdalshreppur,2018,633,35,74
-Mýrdalshreppur,2019,695,41,71
-Mýrdalshreppur,2020,719,38,74
-Mýrdalshreppur,2021,758,43,73
-Mýrdalshreppur,2022,814,48,67
-Mýrdalshreppur,2023,877,47,66
+Mýrdalshreppur,2011,459,29,82
+Mýrdalshreppur,2012,451,28,76
+Mýrdalshreppur,2013,456,31,69
+Mýrdalshreppur,2014,485,33,71
+Mýrdalshreppur,2015,478,40,73
+Mýrdalshreppur,2016,513,35,69
+Mýrdalshreppur,2017,552,39,68
+Mýrdalshreppur,2018,611,35,73
+Mýrdalshreppur,2019,667,41,71
+Mýrdalshreppur,2020,683,38,74
+Mýrdalshreppur,2021,707,42,73
+Mýrdalshreppur,2022,758,47,67
+Mýrdalshreppur,2023,802,45,66
+Mýrdalshreppur,2024,881,49,73
+Mýrdalshreppur,2025,965,51,76
 Skaftárhreppur,1998,593,42,125
 Skaftárhreppur,1999,586,41,126
 Skaftárhreppur,2000,585,37,127
@@ -1390,19 +1440,21 @@ Skaftárhreppur,2007,487,23,80
 Skaftárhreppur,2008,469,20,72
 Skaftárhreppur,2009,465,18,69
 Skaftárhreppur,2010,445,20,58
-Skaftárhreppur,2011,446,27,56
-Skaftárhreppur,2012,443,22,58
-Skaftárhreppur,2013,443,20,57
-Skaftárhreppur,2014,452,25,57
-Skaftárhreppur,2015,460,24,57
-Skaftárhreppur,2016,470,19,56
-Skaftárhreppur,2017,475,25,55
-Skaftárhreppur,2018,560,32,59
-Skaftárhreppur,2019,583,37,57
-Skaftárhreppur,2020,627,46,56
-Skaftárhreppur,2021,624,50,54
-Skaftárhreppur,2022,641,53,52
-Skaftárhreppur,2023,680,46,59
+Skaftárhreppur,2011,441,27,56
+Skaftárhreppur,2012,438,22,58
+Skaftárhreppur,2013,439,20,57
+Skaftárhreppur,2014,448,25,57
+Skaftárhreppur,2015,457,24,57
+Skaftárhreppur,2016,465,19,56
+Skaftárhreppur,2017,470,25,55
+Skaftárhreppur,2018,555,32,59
+Skaftárhreppur,2019,571,37,57
+Skaftárhreppur,2020,580,46,53
+Skaftárhreppur,2021,562,49,53
+Skaftárhreppur,2022,580,51,51
+Skaftárhreppur,2023,609,45,59
+Skaftárhreppur,2024,620,41,58
+Skaftárhreppur,2025,627,38,62
 Ásahreppur,1998,141,13,28
 Ásahreppur,1999,131,13,24
 Ásahreppur,2000,129,10,28
@@ -1416,19 +1468,21 @@ Skaftárhreppur,2023,680,46,59
 Ásahreppur,2008,173,8,31
 Ásahreppur,2009,178,10,32
 Ásahreppur,2010,190,14,33
-Ásahreppur,2011,194,17,34
-Ásahreppur,2012,204,16,32
-Ásahreppur,2013,191,15,32
-Ásahreppur,2014,193,17,30
-Ásahreppur,2015,216,19,32
-Ásahreppur,2016,218,18,36
-Ásahreppur,2017,256,20,40
-Ásahreppur,2018,247,19,40
-Ásahreppur,2019,248,19,38
-Ásahreppur,2020,251,15,38
-Ásahreppur,2021,271,15,43
-Ásahreppur,2022,261,13,46
-Ásahreppur,2023,295,14,53
+Ásahreppur,2011,188,17,34
+Ásahreppur,2012,198,16,32
+Ásahreppur,2013,190,15,32
+Ásahreppur,2014,188,17,30
+Ásahreppur,2015,211,18,32
+Ásahreppur,2016,213,18,36
+Ásahreppur,2017,251,20,40
+Ásahreppur,2018,246,19,40
+Ásahreppur,2019,232,18,37
+Ásahreppur,2020,232,15,38
+Ásahreppur,2021,246,15,43
+Ásahreppur,2022,246,13,46
+Ásahreppur,2023,268,14,53
+Ásahreppur,2024,293,17,54
+Ásahreppur,2025,299,14,45
 Rangárþing eystra,1998,1702,126,389
 Rangárþing eystra,1999,1690,126,383
 Rangárþing eystra,2000,1667,118,369
@@ -1442,19 +1496,21 @@ Rangárþing eystra,2007,1696,131,346
 Rangárþing eystra,2008,1752,130,338
 Rangárþing eystra,2009,1762,137,324
 Rangárþing eystra,2010,1745,133,313
-Rangárþing eystra,2011,1741,131,310
-Rangárþing eystra,2012,1741,130,310
-Rangárþing eystra,2013,1735,120,304
-Rangárþing eystra,2014,1708,114,296
-Rangárþing eystra,2015,1749,120,299
-Rangárþing eystra,2016,1774,121,289
-Rangárþing eystra,2017,1752,111,301
-Rangárþing eystra,2018,1798,103,300
-Rangárþing eystra,2019,1924,116,305
-Rangárþing eystra,2020,1961,122,297
-Rangárþing eystra,2021,1924,110,304
-Rangárþing eystra,2022,1971,117,304
-Rangárþing eystra,2023,2035,123,295
+Rangárþing eystra,2011,1681,127,306
+Rangárþing eystra,2012,1697,130,304
+Rangárþing eystra,2013,1700,120,300
+Rangárþing eystra,2014,1681,114,295
+Rangárþing eystra,2015,1725,120,299
+Rangárþing eystra,2016,1742,121,289
+Rangárþing eystra,2017,1711,111,301
+Rangárþing eystra,2018,1771,103,300
+Rangárþing eystra,2019,1889,116,305
+Rangárþing eystra,2020,1905,121,297
+Rangárþing eystra,2021,1846,109,304
+Rangárþing eystra,2022,1892,117,303
+Rangárþing eystra,2023,1949,122,294
+Rangárþing eystra,2024,2007,118,282
+Rangárþing eystra,2025,2073,126,291
 Rangárþing ytra,1998,1382,127,321
 Rangárþing ytra,1999,1371,113,318
 Rangárþing ytra,2000,1378,119,301
@@ -1468,19 +1524,21 @@ Rangárþing ytra,2007,1528,116,329
 Rangárþing ytra,2008,1557,121,322
 Rangárþing ytra,2009,1604,120,322
 Rangárþing ytra,2010,1543,112,328
-Rangárþing ytra,2011,1523,108,308
-Rangárþing ytra,2012,1504,105,285
-Rangárþing ytra,2013,1518,95,288
-Rangárþing ytra,2014,1553,105,273
-Rangárþing ytra,2015,1548,103,257
-Rangárþing ytra,2016,1526,115,222
-Rangárþing ytra,2017,1537,115,225
-Rangárþing ytra,2018,1610,124,224
-Rangárþing ytra,2019,1636,132,211
-Rangárþing ytra,2020,1682,131,223
-Rangárþing ytra,2021,1740,137,240
-Rangárþing ytra,2022,1810,146,246
-Rangárþing ytra,2023,1866,143,260
+Rangárþing ytra,2011,1506,108,308
+Rangárþing ytra,2012,1477,104,285
+Rangárþing ytra,2013,1481,94,288
+Rangárþing ytra,2014,1515,103,273
+Rangárþing ytra,2015,1519,103,257
+Rangárþing ytra,2016,1497,115,222
+Rangárþing ytra,2017,1510,115,224
+Rangárþing ytra,2018,1582,124,224
+Rangárþing ytra,2019,1606,132,211
+Rangárþing ytra,2020,1644,131,223
+Rangárþing ytra,2021,1686,137,240
+Rangárþing ytra,2022,1745,145,246
+Rangárþing ytra,2023,1807,143,260
+Rangárþing ytra,2024,1867,146,271
+Rangárþing ytra,2025,1940,145,300
 Hrunamannahreppur,1998,693,81,166
 Hrunamannahreppur,1999,701,83,170
 Hrunamannahreppur,2000,718,84,178
@@ -1494,19 +1552,21 @@ Hrunamannahreppur,2007,786,55,205
 Hrunamannahreppur,2008,805,48,199
 Hrunamannahreppur,2009,793,46,184
 Hrunamannahreppur,2010,788,53,186
-Hrunamannahreppur,2011,795,53,183
-Hrunamannahreppur,2012,774,47,180
-Hrunamannahreppur,2013,784,51,167
-Hrunamannahreppur,2014,785,44,155
-Hrunamannahreppur,2015,794,51,142
-Hrunamannahreppur,2016,807,51,137
-Hrunamannahreppur,2017,773,44,123
-Hrunamannahreppur,2018,774,45,116
-Hrunamannahreppur,2019,786,47,108
-Hrunamannahreppur,2020,818,55,95
-Hrunamannahreppur,2021,822,59,101
-Hrunamannahreppur,2022,818,48,104
-Hrunamannahreppur,2023,874,59,108
+Hrunamannahreppur,2011,781,53,183
+Hrunamannahreppur,2012,756,47,180
+Hrunamannahreppur,2013,778,51,167
+Hrunamannahreppur,2014,776,44,155
+Hrunamannahreppur,2015,787,51,142
+Hrunamannahreppur,2016,784,51,134
+Hrunamannahreppur,2017,760,44,123
+Hrunamannahreppur,2018,762,45,116
+Hrunamannahreppur,2019,775,47,108
+Hrunamannahreppur,2020,800,55,95
+Hrunamannahreppur,2021,796,59,101
+Hrunamannahreppur,2022,796,48,103
+Hrunamannahreppur,2023,852,59,107
+Hrunamannahreppur,2024,865,58,103
+Hrunamannahreppur,2025,914,71,99
 Hveragerðisbær,1998,1668,165,392
 Hveragerðisbær,1999,1714,157,405
 Hveragerðisbær,2000,1760,147,415
@@ -1520,19 +1580,21 @@ Hveragerðisbær,2007,2184,154,474
 Hveragerðisbær,2008,2289,161,485
 Hveragerðisbær,2009,2315,172,454
 Hveragerðisbær,2010,2291,175,453
-Hveragerðisbær,2011,2316,178,462
-Hveragerðisbær,2012,2283,172,440
-Hveragerðisbær,2013,2291,166,424
-Hveragerðisbær,2014,2333,180,423
-Hveragerðisbær,2015,2384,184,420
-Hveragerðisbær,2016,2463,189,401
-Hveragerðisbær,2017,2483,188,385
-Hveragerðisbær,2018,2566,185,406
-Hveragerðisbær,2019,2628,191,425
-Hveragerðisbær,2020,2699,197,424
-Hveragerðisbær,2021,2778,205,424
-Hveragerðisbær,2022,2984,247,466
-Hveragerðisbær,2023,3196,276,490
+Hveragerðisbær,2011,2275,177,459
+Hveragerðisbær,2012,2237,170,436
+Hveragerðisbær,2013,2252,165,423
+Hveragerðisbær,2014,2300,180,421
+Hveragerðisbær,2015,2345,183,415
+Hveragerðisbær,2016,2422,189,397
+Hveragerðisbær,2017,2441,186,381
+Hveragerðisbær,2018,2533,184,402
+Hveragerðisbær,2019,2596,190,425
+Hveragerðisbær,2020,2654,195,422
+Hveragerðisbær,2021,2739,203,423
+Hveragerðisbær,2022,2941,247,466
+Hveragerðisbær,2023,3139,274,490
+Hveragerðisbær,2024,3265,292,510
+Hveragerðisbær,2025,3300,289,525
 Sveitarfélagið Ölfus,1998,1526,157,357
 Sveitarfélagið Ölfus,1999,1620,173,372
 Sveitarfélagið Ölfus,2000,1659,173,379
@@ -1546,19 +1608,21 @@ Sveitarfélagið Ölfus,2007,1846,144,401
 Sveitarfélagið Ölfus,2008,1957,149,407
 Sveitarfélagið Ölfus,2009,1997,152,420
 Sveitarfélagið Ölfus,2010,1952,155,376
-Sveitarfélagið Ölfus,2011,1915,152,365
-Sveitarfélagið Ölfus,2012,1930,146,366
-Sveitarfélagið Ölfus,2013,1900,141,364
-Sveitarfélagið Ölfus,2014,1906,144,354
-Sveitarfélagið Ölfus,2015,1885,126,351
-Sveitarfélagið Ölfus,2016,1956,138,347
-Sveitarfélagið Ölfus,2017,2005,137,356
-Sveitarfélagið Ölfus,2018,2111,153,375
-Sveitarfélagið Ölfus,2019,2153,140,356
-Sveitarfélagið Ölfus,2020,2276,158,375
-Sveitarfélagið Ölfus,2021,2369,169,395
-Sveitarfélagið Ölfus,2022,2481,176,395
-Sveitarfélagið Ölfus,2023,2573,194,390
+Sveitarfélagið Ölfus,2011,1883,152,365
+Sveitarfélagið Ölfus,2012,1888,143,363
+Sveitarfélagið Ölfus,2013,1872,141,364
+Sveitarfélagið Ölfus,2014,1878,141,352
+Sveitarfélagið Ölfus,2015,1858,124,350
+Sveitarfélagið Ölfus,2016,1909,133,343
+Sveitarfélagið Ölfus,2017,1961,132,354
+Sveitarfélagið Ölfus,2018,2084,149,372
+Sveitarfélagið Ölfus,2019,2106,138,354
+Sveitarfélagið Ölfus,2020,2197,157,374
+Sveitarfélagið Ölfus,2021,2290,168,394
+Sveitarfélagið Ölfus,2022,2388,174,394
+Sveitarfélagið Ölfus,2023,2475,194,388
+Sveitarfélagið Ölfus,2024,2631,188,408
+Sveitarfélagið Ölfus,2025,2757,214,431
 Grímsnes- og Grafningshreppur,1998,298,23,57
 Grímsnes- og Grafningshreppur,1999,329,30,65
 Grímsnes- og Grafningshreppur,2000,350,30,67
@@ -1572,19 +1636,21 @@ Grímsnes- og Grafningshreppur,2007,376,18,65
 Grímsnes- og Grafningshreppur,2008,378,19,61
 Grímsnes- og Grafningshreppur,2009,442,27,86
 Grímsnes- og Grafningshreppur,2010,415,26,71
-Grímsnes- og Grafningshreppur,2011,400,27,62
-Grímsnes- og Grafningshreppur,2012,416,22,72
-Grímsnes- og Grafningshreppur,2013,422,28,63
-Grímsnes- og Grafningshreppur,2014,422,29,62
-Grímsnes- og Grafningshreppur,2015,431,35,57
-Grímsnes- og Grafningshreppur,2016,465,35,63
-Grímsnes- og Grafningshreppur,2017,467,29,58
-Grímsnes- og Grafningshreppur,2018,479,38,55
-Grímsnes- og Grafningshreppur,2019,493,36,53
-Grímsnes- og Grafningshreppur,2020,497,32,63
-Grímsnes- og Grafningshreppur,2021,492,22,65
-Grímsnes- og Grafningshreppur,2022,525,25,58
-Grímsnes- og Grafningshreppur,2023,535,22,56
+Grímsnes- og Grafningshreppur,2011,385,27,62
+Grímsnes- og Grafningshreppur,2012,404,22,72
+Grímsnes- og Grafningshreppur,2013,408,27,62
+Grímsnes- og Grafningshreppur,2014,405,28,61
+Grímsnes- og Grafningshreppur,2015,412,35,57
+Grímsnes- og Grafningshreppur,2016,445,35,63
+Grímsnes- og Grafningshreppur,2017,452,28,58
+Grímsnes- og Grafningshreppur,2018,468,38,55
+Grímsnes- og Grafningshreppur,2019,478,36,53
+Grímsnes- og Grafningshreppur,2020,481,32,63
+Grímsnes- og Grafningshreppur,2021,474,22,65
+Grímsnes- og Grafningshreppur,2022,499,24,58
+Grímsnes- og Grafningshreppur,2023,502,22,56
+Grímsnes- og Grafningshreppur,2024,539,26,63
+Grímsnes- og Grafningshreppur,2025,575,28,68
 Skeiða- og Gnúpverjahreppur,1998,558,52,127
 Skeiða- og Gnúpverjahreppur,1999,541,48,122
 Skeiða- og Gnúpverjahreppur,2000,532,46,125
@@ -1598,19 +1664,21 @@ Skeiða- og Gnúpverjahreppur,2007,528,38,122
 Skeiða- og Gnúpverjahreppur,2008,536,44,130
 Skeiða- og Gnúpverjahreppur,2009,515,36,125
 Skeiða- og Gnúpverjahreppur,2010,517,42,113
-Skeiða- og Gnúpverjahreppur,2011,505,37,104
-Skeiða- og Gnúpverjahreppur,2012,504,39,92
-Skeiða- og Gnúpverjahreppur,2013,504,37,86
-Skeiða- og Gnúpverjahreppur,2014,530,34,82
-Skeiða- og Gnúpverjahreppur,2015,518,30,73
-Skeiða- og Gnúpverjahreppur,2016,521,27,75
-Skeiða- og Gnúpverjahreppur,2017,594,34,79
-Skeiða- og Gnúpverjahreppur,2018,690,35,90
-Skeiða- og Gnúpverjahreppur,2019,626,38,86
-Skeiða- og Gnúpverjahreppur,2020,609,45,81
-Skeiða- og Gnúpverjahreppur,2021,590,46,88
-Skeiða- og Gnúpverjahreppur,2022,576,50,92
-Skeiða- og Gnúpverjahreppur,2023,577,47,88
+Skeiða- og Gnúpverjahreppur,2011,495,37,104
+Skeiða- og Gnúpverjahreppur,2012,498,39,92
+Skeiða- og Gnúpverjahreppur,2013,496,37,86
+Skeiða- og Gnúpverjahreppur,2014,520,34,82
+Skeiða- og Gnúpverjahreppur,2015,498,30,73
+Skeiða- og Gnúpverjahreppur,2016,509,27,75
+Skeiða- og Gnúpverjahreppur,2017,586,34,79
+Skeiða- og Gnúpverjahreppur,2018,646,35,90
+Skeiða- og Gnúpverjahreppur,2019,568,38,86
+Skeiða- og Gnúpverjahreppur,2020,554,45,81
+Skeiða- og Gnúpverjahreppur,2021,560,45,87
+Skeiða- og Gnúpverjahreppur,2022,570,50,92
+Skeiða- og Gnúpverjahreppur,2023,565,47,88
+Skeiða- og Gnúpverjahreppur,2024,591,53,90
+Skeiða- og Gnúpverjahreppur,2025,617,53,93
 Bláskógabyggð,1998,792,70,188
 Bláskógabyggð,1999,792,73,181
 Bláskógabyggð,2000,816,69,191
@@ -1624,19 +1692,21 @@ Bláskógabyggð,2007,928,74,198
 Bláskógabyggð,2008,982,82,198
 Bláskógabyggð,2009,986,83,183
 Bláskógabyggð,2010,935,74,170
-Bláskógabyggð,2011,935,76,167
-Bláskógabyggð,2012,906,64,165
-Bláskógabyggð,2013,897,63,155
-Bláskógabyggð,2014,931,60,160
-Bláskógabyggð,2015,961,65,162
-Bláskógabyggð,2016,979,63,148
-Bláskógabyggð,2017,1026,66,164
-Bláskógabyggð,2018,1115,76,167
-Bláskógabyggð,2019,1121,70,164
-Bláskógabyggð,2020,1163,72,160
-Bláskógabyggð,2021,1144,70,172
-Bláskógabyggð,2022,1164,63,191
-Bláskógabyggð,2023,1280,65,202
+Bláskógabyggð,2011,912,76,167
+Bláskógabyggð,2012,879,64,165
+Bláskógabyggð,2013,878,63,155
+Bláskógabyggð,2014,912,60,160
+Bláskógabyggð,2015,940,65,162
+Bláskógabyggð,2016,957,63,148
+Bláskógabyggð,2017,1004,66,164
+Bláskógabyggð,2018,1091,75,167
+Bláskógabyggð,2019,1098,70,164
+Bláskógabyggð,2020,1117,72,160
+Bláskógabyggð,2021,1062,70,169
+Bláskógabyggð,2022,1099,63,188
+Bláskógabyggð,2023,1208,65,197
+Bláskógabyggð,2024,1322,72,197
+Bláskógabyggð,2025,1362,83,203
 Flóahreppur,1998,496,47,116
 Flóahreppur,1999,492,45,116
 Flóahreppur,2000,469,31,116
@@ -1650,16 +1720,18 @@ Flóahreppur,2007,559,49,116
 Flóahreppur,2008,585,52,120
 Flóahreppur,2009,596,48,117
 Flóahreppur,2010,602,52,120
-Flóahreppur,2011,594,49,120
-Flóahreppur,2012,602,49,118
-Flóahreppur,2013,639,55,121
-Flóahreppur,2014,631,54,117
-Flóahreppur,2015,616,52,118
-Flóahreppur,2016,619,52,118
-Flóahreppur,2017,648,55,125
-Flóahreppur,2018,644,51,127
-Flóahreppur,2019,667,50,132
-Flóahreppur,2020,687,53,132
-Flóahreppur,2021,690,47,138
-Flóahreppur,2022,694,42,144
-Flóahreppur,2023,708,48,137
+Flóahreppur,2011,585,49,120
+Flóahreppur,2012,595,49,118
+Flóahreppur,2013,628,55,121
+Flóahreppur,2014,621,54,117
+Flóahreppur,2015,606,52,118
+Flóahreppur,2016,613,52,118
+Flóahreppur,2017,641,55,125
+Flóahreppur,2018,635,51,127
+Flóahreppur,2019,656,50,132
+Flóahreppur,2020,670,53,132
+Flóahreppur,2021,673,47,138
+Flóahreppur,2022,679,42,144
+Flóahreppur,2023,691,48,137
+Flóahreppur,2024,699,48,133
+Flóahreppur,2025,726,52,133

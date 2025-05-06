@@ -21,7 +21,9 @@ d <- read_csv(
       "Seltjarnarnesbær"
     )
   ) |> 
-  rename(
+  select(
+    ar,
+    sveitarfelag,
     "Samtals" = stodugildi_total,
     "Skólar" = stodugildi_skola,
     "Leikskólar" = stodugildi_leikskola,
@@ -64,15 +66,12 @@ d2 <- d |>
     .by = c(sveitarfelag, name)
   )  
 
+span <- 0.6
 
-p <- d1 |> 
-  bind_rows(
-    d2
-  ) |>
+p <- d2 |> 
   mutate(
     type = fct_relevel(type, "hreint") |> 
       fct_recode(
-        "Hrein fjölgun" = "hreint",
         "Fjölgun á hvern íbúa\n(Í réttum aldurshóp)" = "íbúar"
       ),
     name = fct_relevel(
@@ -88,40 +87,59 @@ p <- d1 |>
         "Samtals\n(Allir íbúar)" = "Samtals"
       )
   ) |> 
-  ggplot(aes(ar, value, col = sveitarfelag)) +
+  ggplot(aes(ar, value)) +
   geom_hline(
     yintercept = 1,
     lty = 2,
     alpha = 0.5,
     linewidth = 0.5
   ) +
+  geom_point(
+    col = "black",
+    size = 2
+    ) +
   stat_smooth(
+    data = ~ rename(.x, svf = sveitarfelag),
     geom = "line",
     linewidth = 1,
-    span = 1,
+    span = span,
     se = 0,
-    arrow = arrow(length = unit(0.25, "cm"), type = "closed")
+    col = "grey",
+    alpha = 0.3,
+    aes(group = svf)
+  ) +
+  stat_smooth(
+    aes(group = sveitarfelag),
+    col = "black",
+    geom = "line",
+    linewidth = 1,
+    span = span,
+    se = 0
+  ) +
+  scale_x_continuous(
+    guide = ggh4x::guide_axis_truncated()
   ) +
   scale_y_continuous(
     labels = function(x) hlutf(x - 1),
-    breaks = c(0.75, 1, 1.25, 1.5, 1.75)
+    breaks = c(0.75, 1, 1.25, 1.5, 1.75),
+    guide = ggh4x::guide_axis_truncated()
   ) +
   scale_colour_brewer(
     palette = "Set1",
     guide = guide_legend(nrow = 1, label.position = "top")
   ) +
   facet_grid(
-    cols = vars(name),
-    rows = vars(type),
-    scales = "free_y"
+    rows = vars(name),
+    cols = vars(sveitarfelag)
   ) +
   coord_cartesian(clip = "off") +
   theme(
-    legend.position = "top"
+    legend.position = "top",
+    panel.spacing.x = unit(0.5, "cm")
   ) +
   labs(
     title = "Hefur stöðugildum fjölgað hraðar en íbúum hjá sveitarfélögum Höfuðborgarsvæðisins?",
-    subtitle = "(%) fjölgun stöðugilda (hrein / á hvern íbúa) miðað við 2018",
+    subtitle = "(%) fjölgun stöðugilda á íbúa miðað við 2018",
     x = NULL,
     y = NULL,
     col = NULL,
@@ -131,11 +149,13 @@ p <- d1 |>
     )
   )
 
+p
 
 ggsave(
   plot = p,
   filename = here(
     "Figures", "03-12-2023.png"
   ),
-  width = 8, height = 0.5 * 8, scale = 1.6
+  width = 8, height = 0.5 * 8, scale = 2
 )
+
